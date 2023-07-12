@@ -21,3 +21,33 @@ At7YVfKlntqZwPQmpQcTOVV2OV7yoyiPIv3FFKHoQeKEAzjQiSV9K8jOVWnL/Co0
 
 ![12 KM141P 4-TO-1 MULTIPLEXER](./assets/12.png)
 
+## WIP
+
+Traditional multiplexer design (99%):
+```
+eNrtmluShCAMRZvEn17DbKH/Zy2z/42MYoOvm4ggioqWWuVJjAQMAWw+zc/7z7x/
+TfOK2aviEYpm5aooknrd3+KFq8NsVTRXVTR2z2tRUSlPcVPLMeK+qhj4NZagGFnG
+V7wiekDtAgoKjxvrcf5lRvQd5PeIMtJS/RH1aNM5kjdLmRke6bTn7Xl0DHYtTqHc
+i7hjSptXe2t2irat6lIWSiLtSj4RG3nEke91Qh1nSK0XdW/MzC5o6+QY5VbLVVHf
+bEUZj4HMAgMZckWHLiD7ABJ5+0B2vDtjPpyhiH0rdq/KBEQmzU7Cnav71xEF3Luk
+PGNFoC/0VxIJuE3g1NcrkyxBIQJdhfgb2YOaFEyDou09qRpLH+eN21FYvbvQ6udH
+0geHykorrbQUysWnK7cOlSt5I8LF5JwsUs7tyeXIcuIRQZcT7Mbpckrtp1BoeaL7
+nZngk2rwFMorGbgaDOE3SECohsoTQmXZA3A9VJ5Bk8IdZ/BVviH2PgNwrnnjhryx
++ImOOldZ5yoXjfYi3gDLWMcEUtWuxwSpl7hfVimWN6RbYb3VDS4rO1QmLpNTxmVy
+lapDbF75DIPtHr5ErtOg8qIFdNDBb/SGrOvu71q/6Z0dC54crVCDhe7hxwxIif1v
+AYQp3Y+6GYdYinPOGeWdIlLWUImPdCpFrCvljYXlYGLG4jvmscCoWaqZUpBdmbI6
+AGfSdDO1DfDjFcqU6gp4aKs7chCdMyIJ2z/DOsms
+```
+
+This one is close but is short circuiting back into line decoder (99%):
+```
+eNrtml12gyAQhXWuL1lDt9D3rqX730gbqL/AYIYgaq8cT3LyzR0YNDdGHD6Hj8d3
+//jqh87SKKSQQgrzTWzC3jWTkD2+t0eZmkEY9Fe5x95ao/FcFfusGr9W5smhWd1b
+6C7nJL05CiC6l1O/Ydqx6rcyHbqrYnPVQ3cY9iUkh/YbDHcexDHGdzEqithvzzcR
+Kop43kSjqY5dYt/WEW5W5hDZ5p/4/K2cingt5tlkmnYf5F9WB2kRtEzlgBr193GY
+a+sq26G5AhYDk/DoHhYQjHQVVtvpYg67y4JJSUlfp+Bs3IjSKkkPpLibFvVG1ape
+UlolaXszxOW00LTQM6tGipLMBWPOHl/wfKZVkra1Soj9Cq2VVqt3vNWXotpsQM8s
+GW1JZp6xtErSc9OSv6tn1OpWmbtXmbnmbFIvivqlVV527Zz0cCpZmlwvz9P0cnmW
+huvholKE9rE783K8aZp5ACD5bMFeKgUUJ6OQ962AV7bK+F5O+Zv1z+h40RK/d5fT
+Run8yMtr998WDxaJQqvOhqXe0nmuqq1E0d6RfgCyMcjw
+```
