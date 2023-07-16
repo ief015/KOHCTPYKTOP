@@ -1,53 +1,46 @@
 # KM141P - 4-TO-1 MULTIPLEXER
 
-ABCD intentionally lagged to clean up output signal. 
+Essentially just a 2-4 line decoder with a simple input switch glued on top.
 
 - Verification: Passed (99%)
-- Design Score: 301
+- Design Score: 223
 
 ```
-eNrtmk16hCAMhjVhM2foFWbfs/T+F2kHUQiEH0UUaaB04csHASQPklFv9fX6mV/f
-s5qOZBGK8Czh7JVCIfxVdsuIPT5oOSZvcmCP0M2yOzoTwpYPCJkVbdoj+xaVCO3/
-3cKKHq9cDnnJxxbq4xzEk6aIyJZ6qpN+oJ8Bkn5X6tbgaWhzvxRNUlOFmKdqwu3v
-8kGTlTImOlrCOIoJinGqR0uzkfjG28TSTb00wdVZyFI+2atjHsJqGFfJNO6YAhFu
-xxMM2xjq1oJUpXWilhH4JtMqy6v5MSJaZbWSr2ItdqfPbQPsXr8IO/sBPd7YubFO
-tcjrCj2VZpxXM22fIxqYoszGQFRcpVChxyn30VTcMlZQaKYVKq6yk1MWB6/Qtjw3
-Mpj/ih7v3IhHHSliSptpOe0MMa3NjBdld4ur7OODtOHNY5cjGnf1+at4xhdyNN0y
-ZLQ1LcsOFVf5CJo5GTbT3udIw5jWv3CVubvKzJmz4iP6uBar+hVXeUK4HNYIVjQg
-HvuseGC4/LbAzW3nVSrl4ujeNiY0cBA7QuC305TNfqScUE2S2nAm91CooNgZRTgv
-At7YVfKlntqZwPQmpQcTOVV2OV7yoyiPIv3FFKHoQeKEAzjQiSV9K8jOVWnL/Co0
-17a7E77WI4XpF56yyV4=
+eNrtml2SgyAQhHXal5whV9j3Pcve/yKJAvFvaBWNW5YNsWLVNw0atJ2AzU/zfPzV
+j9+6qUqqhBJKKKGEEt5UaO9aIKwHdaPQYr87eqy392ixbu4xfNvpPdY3vVa7dM7y
+paMA3G0/DQWhtHujfsc4RLjUOWbRMW2qhMPe2dxmuL3+aECKKG/hfwKaqh+FdKO5
+IbGRhZh5dQf90LB5nBNl7Yf9SN0p5K6EdIZGb3mfthtre1iG9H2YcXDwGSScZnOe
+va7yX1FRUdGdFNc+I1mlqOhtaEoui7S2oAXV8mPOpZ1rtLJKUVHRAjOk2pFXbjVD
+khm27SKfN4KbIfItI1ZZpaio6ElWCZr7gVolaL9BC9Zv1kiBS/zOskpR0btQTJYS
+N2vB8lVuwsa1oCaMq1jlAQvnnwdabml88ujS0rioaAE1UJq3rAgXKFnnzmuXZiN7
+LSYUM//45hr3IVbpb/tpP0fC51jI6wjKHERF19Klv+eFLVOL5tpk7/0dPn430Z0j
+/bYjOeUFWYrItA==
 ```
 
 ![12 KM141P 4-TO-1 MULTIPLEXER](./assets/12.png)
 
-## WIP
+## Traditional design
 
-Traditional multiplexer design (99%):
+"Simplified" multiplexer design by ANDing selection bits and their compliments.
+Includes inputs delays to help clean up output signal. Relatively inaccurate.
+
+(99%):
+- Verification: Passed (99%)
+- Design Score: 346
+
 ```
-eNrtmluShCAMRZvEn17DbKH/Zy2z/42MYoOvm4ggioqWWuVJjAQMAWw+zc/7z7x/
-TfOK2aviEYpm5aooknrd3+KFq8NsVTRXVTR2z2tRUSlPcVPLMeK+qhj4NZagGFnG
-V7wiekDtAgoKjxvrcf5lRvQd5PeIMtJS/RH1aNM5kjdLmRke6bTn7Xl0DHYtTqHc
-i7hjSptXe2t2irat6lIWSiLtSj4RG3nEke91Qh1nSK0XdW/MzC5o6+QY5VbLVVHf
-bEUZj4HMAgMZckWHLiD7ABJ5+0B2vDtjPpyhiH0rdq/KBEQmzU7Cnav71xEF3Luk
-PGNFoC/0VxIJuE3g1NcrkyxBIQJdhfgb2YOaFEyDou09qRpLH+eN21FYvbvQ6udH
-0geHykorrbQUysWnK7cOlSt5I8LF5JwsUs7tyeXIcuIRQZcT7Mbpckrtp1BoeaL7
-nZngk2rwFMorGbgaDOE3SECohsoTQmXZA3A9VJ5Bk8IdZ/BVviH2PgNwrnnjhryx
-+ImOOldZ5yoXjfYi3gDLWMcEUtWuxwSpl7hfVimWN6RbYb3VDS4rO1QmLpNTxmVy
-lapDbF75DIPtHr5ErtOg8qIFdNDBb/SGrOvu71q/6Z0dC54crVCDhe7hxwxIif1v
-AYQp3Y+6GYdYinPOGeWdIlLWUImPdCpFrCvljYXlYGLG4jvmscCoWaqZUpBdmbI6
-AGfSdDO1DfDjFcqU6gp4aKs7chCdMyIJ2z/DOsms
+eNrtml2WgyAMhSXXl65httD3WcvsfyOjUrRgEiyKRUSPetovkV+vAeyf/c/jzzx+
+Td+l7M3xDEcTuSqOpF6PT7G1Y25H05t0R3MVx4Kbw4h71HHj01iCY2IZu3RH7gZN
+AYpx/Lgdwwc64d1B855QRlq736Idp3CO5G2iANhjP7V8OL8dS7oT3kNhTdzh074b
+/gpO3N2XHLLU/rgSHUpqt75jOTBXVlifb5tM+ZRtYlAaUqdTxxFvPZTJ9mivJWeb
+FWZsyOXeK99CR3cS+VipjhNAPF/OrMmUK7isghiTpbsreKxrmx3RwOVlzz0iBrbQ
+L0vOAEE/DDjZdgXJFrTFYOpW7o/sgiYJ6SalrZOqKn272qiOss17CG31fEt6Y6ls
+tNFGS6EoPlypWiojcSOHq485/aH52hfp6ULzRZ64Mbn191A2Zc/3VR1CRIoq5Q6R
+CFwVQ/YZJMaoSeUXpPKeA3BdKqHL3dli+K0h9jEDcLS48YO4sfiJjjZX2eYqr0q5
+NapThFRNd8bE0tmivqhSLO+W1wqzzhhyXEAqdy6RU8YlcpWqQ2xEHkO66PJ4hGrl
+3TbUheibujYeWTnPNy5AcPXvLK2FLx9lsJQwL/kTT6k+6mYcUikfcwYUBylSVqnk
+j/1UUqxS4sbYzN4FqR/SrKIdoSa5QCqkmfK8UvFj+ob7KkqNZ+T5xhbb+y8dnPq1
+QE5FErZ/UvTJmA==
 ```
 
-This one is close but is short circuiting back into line decoder (99%):
-```
-eNrtml12gyAQhXWuL1lDt9D3rqX730gbqL/AYIYgaq8cT3LyzR0YNDdGHD6Hj8d3
-//jqh87SKKSQQgrzTWzC3jWTkD2+t0eZmkEY9Fe5x95ao/FcFfusGr9W5smhWd1b
-6C7nJL05CiC6l1O/Ydqx6rcyHbqrYnPVQ3cY9iUkh/YbDHcexDHGdzEqithvzzcR
-Kop43kSjqY5dYt/WEW5W5hDZ5p/4/K2cingt5tlkmnYf5F9WB2kRtEzlgBr193GY
-a+sq26G5AhYDk/DoHhYQjHQVVtvpYg67y4JJSUlfp+Bs3IjSKkkPpLibFvVG1ape
-UlolaXszxOW00LTQM6tGipLMBWPOHl/wfKZVkra1Soj9Cq2VVqt3vNWXotpsQM8s
-GW1JZp6xtErSc9OSv6tn1OpWmbtXmbnmbFIvivqlVV527Zz0cCpZmlwvz9P0cnmW
-huvholKE9rE783K8aZp5ACD5bMFeKgUUJ6OQ962AV7bK+F5O+Zv1z+h40RK/d5fT
-Run8yMtr998WDxaJQqvOhqXe0nmuqq1E0d6RfgCyMcjw
-```
+![12 KM141P 4-TO-1 MULTIPLEXER](./assets/12-simplified.png)
