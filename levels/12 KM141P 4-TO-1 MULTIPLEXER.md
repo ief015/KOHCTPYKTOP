@@ -24,7 +24,6 @@ LSYUM//45hr3IVbpb/tpP0fC51jI6wjKHERF19Klv+eFLVOL5tpk7/0dPn430Z0j
 "Simplified" multiplexer design by ANDing selection bits and their compliments.
 Includes input delays to help clean up output signal. Relatively inaccurate.
 
-(99%):
 - Verification: Passed (99%)
 - Design Score: 346
 
