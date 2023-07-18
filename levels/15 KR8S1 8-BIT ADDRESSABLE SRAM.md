@@ -1,6 +1,6 @@
 # KR8S1 - 8-BIT ADDRESSABLE SRAM
 
-So far just 3-to-8 line decoder. Apparently I had a variable with with sr-latch cells and write conditions, but I seem to have lost the save string.
+So far just 3-to-8 line decoder. Apparently I had a variant with with sr-latch cells and write conditions, but I seem to have lost the save string.
 
 - Verification: Failed (84%)
 - Design Score: 500
