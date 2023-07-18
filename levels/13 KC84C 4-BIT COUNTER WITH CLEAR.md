@@ -1,6 +1,27 @@
 # KC84C - 4-BIT COUNTER WITH CLEAR
 
+- Verification: Failed (96%)
+- Design Score: 439
 
+```
+eNrtmV12gyAQRmVuXrKGbqHvXUv3v5Em/iAqMwhqoilymtP2Y5i5jg4Ebt+3r/uv
+u/+4W1PSLmooq0wkZuhKDZvTGbo8Q/HN5Xp0jybtZ7ahlBqOycq+OQNl0V3tjGs6
+ajpqOnZOR1OajqY0HU1pOprSdDRl6Vht6CItaejUphi6Fa1gmiueyq+9XMkzbJdz
+ol+tCkR/tqsPXfwnvU/Eq8+ube9RvTWBPF7b5acfTe6jCGWml6AO3vU25I4wkLvk
+9P/yIXZ+ggG83Ifw+Ju5gyHTeMDZENM2gmKDYoNig6rWS0iZMyrywDfK3T2c3ISB
+DpsOmw6bjnI6TLiYOgHD5MLEwqTCgmr9L+X+nYvLBLJMZeayJOTgreofdd+BsMOR
+dUyrn6sK7PtUzhIVhophS2JkKlEl+kdEF1ZPXirPofK2qEjYUokq0cuJaqk8y7px
+8rW9fM2ZqaKp7fpctwXBGhnDL4moBs/ZMVeiSrSFKK4SeUNZDNr+HqgR5h3e31oq
+lUS8QEVX2+cS9cFLqFh+bbXvUIkuTVRYSMFQkYRqF1KOW3LsptZV5eX2KlnM4Dm7
+RhtsF4+0oleiSvQSovFoaalOTp4mKvPrk7+AH3oyvlTjYR+rYu8acdTezpoNdu0o
+1VbRVU+ESUR+VJLw699FgwiTCJMIk4iCqCTh19c1nQiTCJMIk4iSqCTht1+VGgfh
+sbtBoFrn3POnfb3KbhXp0FIZ/9muJsP2k9jBc4e+NiCytzObQouLIcmte3UWDnzn
+r3beTCSfRiQfRnRKlfdWpD8U+MrO
+```
+
+![13 KC84C 4-BIT COUNTER WITH CLEAR](./assets/13-wip.png)
+
+## Old attempt
 
 - Verification: Failed (65%)
 - Design Score: 500
@@ -27,5 +48,5 @@ z6MHnZN05pxildwjC7HEhplSj1bknZJZ+Up0KjiqWE9DGB84LZFbfMWiPhdRiUVf
 BRzBUmhYspkjwOfonSzY0x8hCxfMsioajiqeVpeVzFwgIv0H8yDK2g==
 ```
 
-![13 KC84C 4-BIT COUNTER WITH CLEAR](./assets/13.png)
+![13 KC84C 4-BIT COUNTER WITH CLEAR](./assets/13-old.png)
 
