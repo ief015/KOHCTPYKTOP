@@ -1,22 +1,19 @@
 # KC74S - 4-BIT SHIFT REGISTER (S-TO-P)
 
-So very close...
-
-- Verification: Failed (95%)
-- Design Score: 372
+- Verification: Passed (100%)
+- Design Score: 312
 
 ```
-eNrtml1ygzAMhLGWl5yhV+h7z9L7X6SFYGJia40xv0Ew6aTzea0dgRUb0363X49f
-9/hxbbPkvKxw2on05wJh/P9sYXOQUJYJXX8ujOh2jnihy1EkdOVCl7u900IvkdKI
-bojqcmbjiJYcS44lZ9XkNEuTc4c5wIcK++mc6EdPASQ/9bTjz794fum+j3H9AbQN
-hOK2+b93eYO+kdri5SBBn70jaBVxLwzSNu1cVOptKVjyNOihXJyi744H6hOApBaj
-VlQKjQYH63mBK1BXqHCFGlegrlDhCnlX3XjScHczkcjDQEhVCsSHTsMBM6UDQcr2
-C2G3EqWVxlm106hRo0bvTc9TKnHWdOEg7f4UOgXTgmvN1c1dWalch/rV1vRS7VpI
-aUELjZVrr1QMk4swHc7XmqtPd2WlcsdSqRRDzNJWUnAtqBbHeF5GoVM26wCddQDm
-6tqurBheaQGOsy7AgWO0+1OQoZQbhoC5MldWKis3vaOnIaktaaF73m9TvPWo5CnK
-l0JSsRt9MhpcM0IFlHItjStsn1tzBeoK1BXmxBW2z626AnUF6goz4qoU1BWUiWVI
-RaHaE6dpniWxyR0RqE9Q190B37hUpj/1VHtUudtvB32xxzsb25T2fKVf0tSYGN/b
-yGkZBe1ZexOFu5LNXEmNK9nMldS4ks1cifKy0NRz5Dub59xdt2VFUo4/KSjJgA==
+eNrtmltywyAMRY2uf7KGbqH/XUv3v5G2fg+giwGT+iF7nMnkIHQtIo1i0n/2H69v
+9/pyfVdy3spQhrPI0KU8OvXMkOpK79EMzZBPwQydnhvMcDaRXI9u8pqdHWLBseBY
+cI4NTlcanGc1D+cxHNo50Y+BAohe9fSX993oCcPxJ0pk/GwesarB+J7g9dY2Q4TP
+IJEZZJqCDFncqGO2MQxUJLBciQ5LF6MjgGKLaYioFDpdDjZzkSpQVahQhRpVoKpQ
+oQo1qiBJv0FB8VQBkWTYIo0vzBvQsmBphXJXJTVq1KjRZ9NTlUqU28KW+C2UxBnM
+Fk3XyFRdXZWVykyKvEKKY8qs0d2pBD3OHsy0NVV3V2Wl8sgkRdEXAHRmo5mUxJl1
+HaBdB2Cqrq3qCcXwLqUyYrt9bmyd4TsoiTNSadhujUzV1VXdplRWboHHH3ao298a
+relIjTalmF8JFVDKbalfYTvduipQVaCqkPYrbKebqAJVBaoKSb/CdrqZKr/lDKmo
+NFjhyCrE6UpwYEVqWirjVz3d5iDseePJqZcRe5Ml9vvN72fYzPrfUbgqaaZKalRJ
+M1VSo0qaqQoXMdCsx/n/KpJ3/ABKzMkh
 
 ```
 
