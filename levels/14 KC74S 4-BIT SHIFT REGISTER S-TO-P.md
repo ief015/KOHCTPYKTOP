@@ -1,0 +1,24 @@
+# KC74S - 4-BIT SHIFT REGISTER (S-TO-P)
+
+So very close...
+
+- Verification: Failed (95%)
+- Design Score: 372
+
+```
+eNrtml1ygzAMhLGWl5yhV+h7z9L7X6SFYGJia40xv0Ew6aTzea0dgRUb0363X49f
+9/hxbbPkvKxw2on05wJh/P9sYXOQUJYJXX8ujOh2jnihy1EkdOVCl7u900IvkdKI
+bojqcmbjiJYcS44lZ9XkNEuTc4c5wIcK++mc6EdPASQ/9bTjz794fum+j3H9AbQN
+hOK2+b93eYO+kdri5SBBn70jaBVxLwzSNu1cVOptKVjyNOihXJyi744H6hOApBaj
+VlQKjQYH63mBK1BXqHCFGlegrlDhCnlX3XjScHczkcjDQEhVCsSHTsMBM6UDQcr2
+C2G3EqWVxlm106hRo0bvTc9TKnHWdOEg7f4UOgXTgmvN1c1dWalch/rV1vRS7VpI
+aUELjZVrr1QMk4swHc7XmqtPd2WlcsdSqRRDzNJWUnAtqBbHeF5GoVM26wCddQDm
+6tqurBheaQGOsy7AgWO0+1OQoZQbhoC5MldWKis3vaOnIaktaaF73m9TvPWo5CnK
+l0JSsRt9MhpcM0IFlHItjStsn1tzBeoK1BXmxBW2z626AnUF6goz4qoU1BWUiWVI
+RaHaE6dpniWxyR0RqE9Q190B37hUpj/1VHtUudtvB32xxzsb25T2fKVf0tSYGN/b
+yGkZBe1ZexOFu5LNXEmNK9nMldS4ks1cifKy0NRz5Dub59xdt2VFUo4/KSjJgA==
+
+```
+
+![14 KC74S 4-BIT SHIFT REGISTER S-TO-P](./assets/14.png)
+
