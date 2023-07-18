@@ -1,5 +1,7 @@
 # KO224X - DUAL FREQUENCY OSCILLATOR
 
+Significantly overbuilt. Can be refactored significantly using oscillation method from [05](/levels/05%20KO223%20DUAL%20FIXED%20FREQUENCY%20OSCILLATOR.md).
+
 - Verification: Passed (100%)
 - Design Score: 623
 
