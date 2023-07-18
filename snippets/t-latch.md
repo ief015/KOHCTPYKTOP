@@ -38,9 +38,9 @@ Je3TSLf/CgXV3t2q8ARH+gHyjcdH
 
 ![T LATCH - usage](./assets/t-latch-usage.png)
 
-## Old T Latch design
+## Older T Latch design
 
-Mirrored T Latch snippets
+Bulkier, but more accurate. Mirrored T Latch snippets:
 
 ```
 eNrtWkFywyAMLFpf8oZ+Ife+pf//SB2UJjUGkRA3CCQz9oxn0WgBaxHg5bx8nr7D
