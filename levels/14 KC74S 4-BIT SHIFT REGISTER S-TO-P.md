@@ -19,3 +19,6 @@ M1VSo0qaqQoXMdCsx/n/KpJ3/ABKzMkh
 
 ![14 KC74S 4-BIT SHIFT REGISTER S-TO-P](./assets/14.png)
 
+## See Also
+
+[D Flip-Flops](/snippets/d-flipflop.md)
