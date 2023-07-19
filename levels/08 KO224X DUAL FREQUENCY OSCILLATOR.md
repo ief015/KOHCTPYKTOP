@@ -17,4 +17,3 @@ oreNw7jHzRyiDKUVKVJ+ACaFyN4=
 ```
 
 ![08 KO224X DUAL FREQUENCY OSCILLATOR](./assets/08.png)
-
