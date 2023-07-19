@@ -38,23 +38,28 @@ Je3TSLf/CgXV3t2q8ARH+gHyjcdH
 
 ![T LATCH - usage](./assets/t-latch-usage.png)
 
-## Older T Latch design
+## Bulky Edge-triggered T Latch design
 
 Bulkier, but more accurate. Mirrored T Latch snippets:
 
 ```
-eNrtWkFywyAMLFpf8oZ+Ife+pf//SB2UJjUGkRA3CCQz9oxn0WgBaxHg5bx8nr7D
-6SssHy1lYEOKz/CsYYiFYnnaI7UZWhiOAwwrI1oyrI6o5JHaDHv1amgzbGwj92yj
-x4G+Ve9V0706r65Sm6HYlzWPzfNj8PkxGsZ0jspXRAFk79fRFV8LXd6J3/76jQDX
-5ytBJc5jo/em6uK84bVHnfO8nFkwShVwrZHDf2N3Re/Kk9a51csF+hXdahfeplGl
-/nlIPB111FFHbaPqpRLJtGpimKA2/5FQrbmxc+6KQrYdJroVSKUohrwkNyaGu0Zr
-CVKSWKFbgFf82uKsTQxRE0MMIqTapZI3LqzljZBFSWk+0y3bMcZ5sLzRs8r3oHzS
-UxZSYMLl+a7RiZACnfIK0a/Swynn3BdFRUjnksoDTr2peOqdn059S3m8PTTnbJRz
-WQwhiuF28ZQ9CC/oxv+ccR8ilfn7dbSWhPM6Nf2pwMDvQx7CznmC7zm36EtjX4xu
-dFKk/fUDr/bHZg==
+eNrtWltygzAMDNr85Ay9Qv97lt7/Ik0Jb6QVliFgCAydTBdhW9auZMP9+/71+K0e
+P9X9FjlPZFilGUp3VqktVs9T6r/JhhI1vLGOcufIRQJgT0OJGCqzutRwFkdLDauI
+ocoV3bDy2Tk0XMBCq0WXhbahRA05C6lzJMerK81jVuQEYzXMjvNKR0iQwykgI+mE
+0lxGYg2m8pNFTl3OiX3UKAD1ykefeHuh/dW32yEvcI42h6hoe6B/wAwd/F+3pagc
+GQVB+2Ebts0N/yjmCHrbsQOHnu5th/e0v1/ttvdDHVHblopi2M8p2gWZ3u4oXKZ9
+Fjpe7qtkPx8rcli0u0xRWcYZ6rCbKMOWimT5apFUHgFFdIozwuPgYriZkGbY9vjy
+XoGgILZwnowEX2EnXxWEbskyFOCNMqQSck1BKxBFoi0K7PMHvSK7DySVZmapC2S2
+NBDslQ0vWDfSBelgqqy6EeMFmgCkboQgWjfCqRvh9HnReM9Vc27FFMpQh93HqTlL
+kMq5ryeT6KA4qRjmSCUVh86heg0GZ4mNlCW2qoa93DlogpBGR8S9wT1Z2AKcSyUt
+VygHOX8/C/D1UGTVjRm2V92rjNdR7kuQSa+QVTdm2Kb0eSNfnWqvMs4yl91FSeU6
+77j1fSGM7tDQJmmxPSXEd5wuWVW6T569xZ6UWTaqtAu+Vwm6W2WJIXjE6st+c68S
+S73x1lk4khi6T0Y6f33uW7qxzTvuVaRSv/LRUV4yyQK7JlG+FtE/YzCz4RWrSjhp
+ZfxJjzVNr89yVM0ZSyXm9s3nQPQtNuCNyJr9LsiMdv0+W+NN8ZXv54JQjyk6y3yG
+wt8FxT6KNDn+ADSIyH8=
 ```
 
-![T LATCH - old](./assets/t-latch-old.png)
+![T LATCH - bulky](./assets/t-latch-bulky.png)
 
 
 ## See Also
