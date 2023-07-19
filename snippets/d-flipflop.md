@@ -14,7 +14,7 @@ jdsuedcKuJTpnKqsVlnjLqxic427ggo6OVJXq8wf7VS1h6s/ldKB4/wKBHRteCXG
 Khl6yVd/gs+T3dw0Gb3qtUpGSWtO3tWSOWuooXixI8XbL/Uwx58=
 ```
 
-![JK LATCH](./assets/d-flipflop.png)
+![D LATCH](./assets/d-flipflop.png)
 
 ## See Also
 
