@@ -22,8 +22,30 @@ A collection of my solutions and snippets for [KOHCTPYKTOP: Engineer of the Peop
 - 16 [KA181 - 2-BIT LOGICAL FUNCTION UNIT](/levels/16%20KA181%202-BIT%20LOGICAL%20FUNCTION%20UNIT.md)
 
 <details>
-<summary>Final Levels - <b>Spoiler warning!</b></summary>
-It's ok, I haven't got here yet lmao.
+  <summary>Final Levels - <b>Spoiler warning!</b></summary>
+  <ul>
+    <li>
+      17
+      <!--a href="/levels/17%20X901%20RADIO%20MESSAGE%20STREAM%20DECODER.md"-->
+        X901 - RADIO MESSAGE STREAM DECODER
+      <!--/a-->
+      - Not yet implemented
+    </li>
+    <li>
+      18
+      <!--a href="/levels/18%20X902%20GRENADE%20LAUNCHER%20AMMO%20COUNTER.md"-->
+        X902 - GRENADE LAUNCHER AMMO COUNTER
+      <!--/a-->
+      - Not yet implemented
+    </li>
+    <li>
+      19
+      <!--a href="/levels/19%20X903%20GATLING%20CANNON%20FIRE%20CONTROLLER.md"-->
+        X903 - GATLING CANNON FIRE CONTROLLER
+      <!--/a-->
+      - Not yet implemented
+    </li>
+  </ul>
 </details>
 
 ## Snippets
