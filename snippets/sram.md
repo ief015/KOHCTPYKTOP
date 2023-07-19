@@ -1,0 +1,24 @@
+# SRAM Cell
+
+Chained cells example:
+
+```
+eNrtWltygzAMDFp+coZeof89S+9/kQ5QPyRLIsMj0FowySSzVrxey0K2Mn6OH8/v
+4fk1jI8tdxiGoQkO5u0akriTEa31OFRNh2z+EtWlYSbH+g8H+OeGrp/ahit+ahuu
++KlH1fXTECfEuZE4YXiN4ZzOkX3NKAD1tR+dLmD+Tmj6zeh0jQ8D5iMyGhkjOwad
+3lIrSHRhn8bRonmEhi1lFIpt6RfvG+81qFBZ85GiMkMblTk6PoTMDcx15vDCzUAF
+L47K2Zeoy4t8Xtl6A7FpETnM0kqzyZFPbiG4FUXl9jXzc4OUHhxfip6BBhpooH2j
+ESp3oag/CBTpDZrtb14Fu1+EzprKTU7CVJYohJT2DAarE1lFqOx9CYO5EUeRt9XK
+pmNx2LJFVH+5bEC71lmozFGpskS5ytovw37YBatjWEWojFDpZpXiIKYNhrX3hc72
+8nczpea4Sy5wfjQerC5gFaEyUJSrzRtRCjKkoLlGZLl0esyjd525yiIXEipLlKus
+zWBROVidxaqfULm77C2OSDixNDlmUdwZ1LXoSjGct7IK2j5KPZS7fdQrhjcqy4I1
+V9lCSS12by2Fy7mXKGdlo7QBhVNrdliRy4poTxV7VwW8ypRR7d3OqXEfEir1137U
+XC38DwOyxR96KuWHuFq4MbPKcnIU2bvnG1JltRhhZkpc5aNY4Y6scEtWq/OL5hz2
+HRFJu34Ayr3Ksw==
+```
+
+![SRAM Cell](./assets/sram.png)
+
+## See Also
+
+[15 KR8S1 8-BIT ADDRESSABLE SRAM](/levels/15%20KR8S1%208-BIT%20ADDRESSABLE%20SRAM.md)
