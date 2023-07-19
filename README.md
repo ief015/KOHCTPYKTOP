@@ -43,7 +43,7 @@ A collection of my solutions and snippets for [KOHCTPYKTOP: Engineer of the Peop
       <!--a href="/levels/19%20X903%20GATLING%20CANNON%20FIRE%20CONTROLLER.md"-->
         X903 - GATLING CANNON FIRE CONTROLLER
       <!--/a-->
-      - Not yet implemented
+      - WIP
     </li>
   </ul>
 </details>
@@ -54,6 +54,7 @@ A collection of my solutions and snippets for [KOHCTPYKTOP: Engineer of the Peop
 - [S/R Latches](/snippets/sr-latch.md)
 - [T Latches](/snippets/t-latch.md)
 - [D Flip-Flops](/snippets/d-flipflop.md)
+- [JK Flip-Flops](/snippets/d-flipflop.md) - WIP
 
 ### Memory
 - [SRAM Cell](/snippets/sram.md)
