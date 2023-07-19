@@ -54,4 +54,6 @@ A collection of my solutions and snippets for [KOHCTPYKTOP: Engineer of the Peop
 - [S/R Latches](/snippets/sr-latch.md)
 - [T Latches](/snippets/t-latch.md)
 - [D Flip-Flops](/snippets/d-flipflop.md)
-- [JK Flip-Flops](/snippets/d-flipflop.md)
+
+### Memory
+- [SRAM Cell](/snippets/sram.md)
