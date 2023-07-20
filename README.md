@@ -40,10 +40,9 @@ A collection of my solutions and snippets for [KOHCTPYKTOP: Engineer of the Peop
     </li>
     <li>
       19
-      <!--a href="/levels/19%20X903%20GATLING%20CANNON%20FIRE%20CONTROLLER.md"-->
+      <a href="/levels/19%20X903%20GATLING%20CANNON%20FIRE%20CONTROLLER.md">
         X903 - GATLING CANNON FIRE CONTROLLER
-      <!--/a-->
-      - WIP
+      </a>
     </li>
   </ul>
 </details>
