@@ -26,10 +26,9 @@ A collection of my solutions and snippets for [KOHCTPYKTOP: Engineer of the Peop
   <ul>
     <li>
       17
-      <!--a href="/levels/17%20X901%20RADIO%20MESSAGE%20STREAM%20DECODER.md"-->
+      <a href="/levels/17%20X901%20RADIO%20MESSAGE%20STREAM%20DECODER.md">
         X901 - RADIO MESSAGE STREAM DECODER
-      <!--/a-->
-      - WIP
+      </a>
     </li>
     <li>
       18
