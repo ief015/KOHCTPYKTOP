@@ -1,7 +1,5 @@
 # T Latches
 
-## Edge-triggered T Latch
-
 ```
 eNrtWVGywiAMfLD98QzvCv6/s7z7X8QZxDq1EEoipNDYaa1d15AAayDLffm9/bvb
 n1t+OIcRexB94u4A0W2IrotFF+287w4QfTjSn9pYFPg41ACYvzv6D/Kri5XnEXcD
@@ -17,7 +15,7 @@ heI1PYCB8iiqVSWPztgLowhpZq9yE+lpskrge1LZXZEesZTHsQ==
 ![T LATCH](./assets/t-latch.png)
 
 
-## Edge-triggered T Latch in use with simplified variant
+## T Latch in use with simplified variant
 
 On the left shows a simplified implementation of this T-Latch. At it's core, it is a simple
 SR-Latch, with both S+R inputs connected, forming T. R is only available when the output is high.
@@ -38,7 +36,7 @@ Je3TSLf/CgXV3t2q8ARH+gHyjcdH
 
 ![T LATCH - usage](./assets/t-latch-usage.png)
 
-## Bulky Edge-triggered T Latch design
+## Bulky T Latch design
 
 Bulkier, but more accurate. Mirrored T Latch snippets:
 

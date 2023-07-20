@@ -1,7 +1,5 @@
 # D Flip-Flops
 
-## D Flip-Flop
-
 Design score: 45
 
 ```

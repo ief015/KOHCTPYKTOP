@@ -1,7 +1,5 @@
 # JK Flip-Flops
 
-## Edge-triggered JK Flip-Flop
-
 WIP - using level 07 as test bench
 
 ```
