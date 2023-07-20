@@ -1,33 +1,45 @@
 # D Flip-Flops
 
-## Edge-triggered D Flip-Flop
+## D Flip-Flop
+
+Design score: 45
 
 ```
-eNrtmlGSgyAQRJdpf3KGvcL+5yy5/0V2hbiKMAOKmFhpLZOUzwYzAy0UDj/D9+3h
-bnc3fO3ZKaRQhW67cDwnfq8Uht+TROprdP5w0femGtkAKDxO6LYLs32lLFT6Skmo
-9pWaGtkAKKTwJKEfzom+eQoge7TTv96OZ03+5KriCMvJWJopAIV6ANFpiFNIkkj4
-XFwylu8vm1OZv2jUZnP6/nj6888Yh1jl9FDw/zaFeUVRpIsEJiVHCczUGzKslLxs
-GDFVWszqnhUqH0PxCrNSTbLKRUlJSUk/m9Iqu1HoFJYWtpZxPp5Cp7C0sLWMM62S
-tGyGEHWSlcKFFiUts3C0GSaT6CxMKUpaZoFWSbp73Ahz3EgzvNK4kWZIq2S4mil0
-I4U1AZ+XLxjJkygMM7SMNEoVI0mrbF1RwmK6kt5Y5/XpN6XJ4HFls/qI1Ejx1Wlp
-jdsuedcKuJTpnKqsVlnjLqxic427ggo6OVJXq8wf7VS1h6s/ldKB4/wKBHRteCXG
-Khl6yVd/gs+T3dw0Gb3qtUpGSWtO3tWSOWuooXixI8XbL/Uwx58=
+eNrtmlGWgyAMRUeeP13DbGH+u5bZ/0bGgiJKEimWjton7Wk9lyeYYBpN+5/++/bb
+3e5d/1XTKKSQQgovJXRj654TTqJHc+XCbtWKhW7V6MfjCxNPvXXEZDGXCYXFXCIU
+F3OJUFzMXDk1Qp/OOX3zFID43k/9NuwiTAfZ0LEDvEimfgVIEyc/FH94cPKiwmHx
+4buD2+LhCAqPC0nkQa7xMDj8S+Dj1PX5p1i1H1r7J34v7zFfoLFT3me4esceRqfg
+nkWHsJMO5UebcdZp8lJyzisevLTgfmfZQTrpd8Q7Mc4WBWJS0jNQ0Br/RPEB58tQ
+SXoailqtlOpKh6adFYpaLSTpQguGSlLSV1OoeWO4a4dMEa5YlcaPC1sS9eFutrwY
+DKPlBZpYXqRisGSoJCXdQzFd7lreCDBvbBZmYeWNwCXyRoZK0muESmzdgGuhMtSB
+LApc/TknsEe7lZFqoTKxvEKBszznbF5fT42pFcgFcy+Kf8ZJkR6JqgX0oiMrxXMj
+b0yOjDxURqqVxedVp825YE3iFD6ynxluUyOgwQqVs+V16p6nbWrcLwmV8ns/VX+0
+0kfK+U8Ps6xjUoihI3vY2GRWsCvgqLkB1/79dj4foeG4sCvgaHAD3jgiSdsfuM3I
+lQ==
 ```
 
-![D LATCH](./assets/d-flipflop.png)
+![D LATCH MINI](./assets/d-flipflop.png)
 
+## Mini Variant
 
-WIP faster:
+Smaller, less accurate.
+
+Design score: 30
 
 ```
-eNrtmksagyAMhCXDxjP0Ct33LL3/RWpRMYBYPxXrY6Bu/BOwgGN42Kd91G9Tv4yt
-luQ7Oxqf2Th0pCMd6Rhk6XIvk/LL0ShT491n1ii+AF13UAD7kY7Xd3ThnOSTowBG
-r/V0SM3dpF7NpqmQku5G+7dnsLBVzqQd7nBDXll8bzRO8CzCbQkNcEU4A4wYSPvr
-Hji2CFJJiohCJ0lo6L0J3UOiYmmcpZ2kpKSk96aUSlLSEjQMijSFxMFaMuViS1Iq
-F9EkFGcnkh6bop/oJbSfsU4JKQLNZDtTKklJLxxVIiuGiD7+bElK5UZRpV8lZyeS
-niOqVFszUVTZDmZgwrczA1vybFJZftNbuOlNeiXq5TDZ6h7iyQyNNPN4dJc97nI7
-4IWlcvxaT/nNIr0qhT9XI/rQkJ6DZ9cqg2nU0f5vsoIanBXa5an+oEgfNCXHnA==
+eNrtmlGSwiAQRIXmxzPsFfZ/z+L9L6JF1hQkMwORhA3ZjpWy9NkDZrCdEcN3+Lo/
+3P3HhdsnNwop3Ffogo+3auH0aBK5LSO6eLp477cKJ8lbzjxSSOEBQtENykLFDUpC
+1Q1qRhTdgHmksLcwlnNePyIFIJ7t9PVJwO9I8cnFwBn2nbFvp4BCX0PPF0LAbyjS
+ad7xFTpWMjnjcPtbbk9vrd727jpgYE69gGFg5MtGwknq18GzdSNPzQqeLpwFNhdc
+suRPmpKOtqXaZZWfkpKSkv5vSqs8jMKgsLRoicwsjENhUFhatERmFmiVp6JqEx07
+pWVvn2rhoZohJMwsDEmFbjn1Ouh2ly0BUWtEZhZolSezStvuVC2kF/A6X9Eqbbsr
+VJWsG2mVV6FG3bhieVWJhsjMwjgUllVaDTjQEJlZONIq23aUINdZu+1FD0m1HUmp
+qshrTm9WpKQ7U2G/u0qrbIZnWpPC1npY49qzGj9Hx+xx72KV8tlOy+YwbgOuLgCh
+bEz/S1Ta9AG//bu2yXM+NtZ+NZH1XyM/1xqzukw/0sWR8uMJ7+DHqw==
 ```
+
+![D LATCH](./assets/d-flipflop-mini.png)
+
 
 ## See Also
 
