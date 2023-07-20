@@ -14,7 +14,6 @@ HaBdB2Cqrq3qCcXwLqUyYrt9bmyd4TsoiTNSadhujUzV1VXdplRWboHHH3ao298a
 relIjTalmF8JFVDKbalfYTvduipQVaCqkPYrbKebqAJVBaoKSb/CdrqZKr/lDKmo
 NFjhyCrE6UpwYEVqWirjVz3d5iDseePJqZcRe5Ml9vvN72fYzPrfUbgqaaZKalRJ
 M1VSo0qaqQoXMdCsx/n/KpJ3/ABKzMkh
-
 ```
 
 ![14 KC74S 4-BIT SHIFT REGISTER S-TO-P](./assets/14.png)
