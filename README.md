@@ -29,7 +29,7 @@ A collection of my solutions and snippets for [KOHCTPYKTOP: Engineer of the Peop
       <!--a href="/levels/17%20X901%20RADIO%20MESSAGE%20STREAM%20DECODER.md"-->
         X901 - RADIO MESSAGE STREAM DECODER
       <!--/a-->
-      - Not yet implemented
+      - WIP
     </li>
     <li>
       18
