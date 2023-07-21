@@ -1,16 +1,15 @@
 # KT141AO - 4-INPUT AND/OR GATE
 
 - Verification: Passed (100%)
-- Design Score: 184
+- Design Score: 144
 
 ```
-eNrtmlFuwyAQRAPrH5+hV+h/zpL7XyQSNQXjZTGOrbTkgZAivQxYm2g09nr6nr7m
-h5vvbrodmYMJXa/Q/R/hCcWJsyn0YW6lDWF5gs9m16VGkesV5luM+idHiBAhQoRj
-CkOc8/URqIio63X6MyQuCXS6+S2OQ8H5qOC0uTfF3TR92NBlLd8oqE902USjIr9n
-aLT4maDQz6FXm5JmhrvcEnohFaoBhf59ilVeQ1eZk1pBoVjlidQO4Ud3tuP9vquS
-TjNc34Ab57aMlMwJhWKVfVZ5lL4zN0rb7jBDKBSrHIEmL9yvjRqxjTQ2hKgzFDqC
-VZ7Y5g7L6BdXusmFtWi00qdOUO1im9pWj7uIhl0PDdqUHigUen4H/GKr1NfrdJuy
-KuXK4pnXX+mxb5MrBSmlxbk23Vtq81mlnWbJnFDo+xwpG081Wse6
+eNrtmkEOgjAQRWU+G87gFdx7Fu9/EZMKgkCnhQoRfDRdmNcfkJCXKUN9q6/No2ru
+VX1ZMwguDloYi4PVeywK2sfYIzi8VFt7V/cP8qwSJEiQIMFjB0M5Z/EjUEmzs5wG
+rvDbutmf1wYLErRdMU+n/6inFqPmZhP0tcKn8qhBodAY3dJIMRNmqRIaoeJuQKH/
+Qc+uynHltyCrgiwUCkWVB5KhJqXfcAOePq9ckYqKFApFlaevG+Ury3+TmaE7ZAiF
+ospjUHcTLbcyVHoDLh4tKBRV9vHCHrd1Xax4F9tcqrGacoWW0eO2gh63XzcqoVn6
+mFDoOrpNj/srqpyf5bT1pPzLTihr/EnQj9R+4l0lFLoJ3dJIkeMJ5zrHaQ==
 ```
 
 ![03 KT141AO - 4-INPUT AND-OR GATE](./assets/03.png)
