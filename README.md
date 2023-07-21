@@ -32,10 +32,9 @@ A collection of my solutions and snippets for [KOHCTPYKTOP: Engineer of the Peop
     </li>
     <li>
       18
-      <!--a href="/levels/18%20X902%20GRENADE%20LAUNCHER%20AMMO%20COUNTER.md"-->
+      <a href="/levels/18%20X902%20GRENADE%20LAUNCHER%20AMMO%20COUNTER.md">
         X902 - GRENADE LAUNCHER AMMO COUNTER
-      <!--/a-->
-      - Not yet implemented
+      </a>
     </li>
     <li>
       19
