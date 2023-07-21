@@ -1,6 +1,6 @@
 # X901 - RADIO MESSAGE STREAM DECODER
 
-- Verification: Failed (98%)
+- Verification: Passed (98%)
 - Design Score: 461
 
 ```
