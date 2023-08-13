@@ -1,7 +1,7 @@
 # KO224X - DUAL FREQUENCY OSCILLATOR
 
 - Verification: Passed (100%)
-- Design Score: 226
+- Design Score: 228
 
 ```
 eNrtWkFigyAQlB0veUO/0Hvf0v9/pJVoiCmMZpGKsBhPw+zCAsOCGT/Hj9u3u325
