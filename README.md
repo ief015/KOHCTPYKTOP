@@ -47,6 +47,16 @@ A collection of my solutions and snippets for [KOHCTPYKTOP: Engineer of the Peop
 
 ## Snippets
 
+### [Logic Gates](/snippets/logic-gates.md)
+
+- [NOT Gate](/snippets/logic-gates.md#not-gate)
+- [AND Gate](/snippets/logic-gates.md#and-gate)
+- [NAND Gate](/snippets/logic-gates.md#nand-gate)
+- [OR Gate](/snippets/logic-gates.md#or-gate)
+- [NOR Gate](/snippets/logic-gates.md#nor-gate)
+- [XOR Gate](/snippets/logic-gates.md#xor-gate)
+- [XNOR Gate](/snippets/logic-gates.md#xnor-gate)
+
 ### Latches/Flip-Flops
 - [S/R Latches](/snippets/sr-latch.md)
 - [T Latches](/snippets/t-latch.md)
