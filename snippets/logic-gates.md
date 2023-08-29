@@ -195,41 +195,6 @@ XliSKSIJWr1VFl7k1mmoyL25Ader2A3XuHW6UQFfwoIaN6hETqF5atynWKXcj9Mf
 
 ![Logic XOR Simplfied](./assets/logic-xor-simplified.png)
 
-### Old Design
-
-An old deprecated design that brute-forces a result for each combination of inputs. Pretty laggy.
-
-```
-eNrtmkESgjAMRSVhwxm8AnvP4v0vIiIojmkoiS2lfBjcvPlSM/XZUNu+vXb3prs1
-7cVyIpgvSNNpCDbDaQxS9qCxOJg5kUFxHsUFhXkUG6TsQWNxMHMQRBDBwwbH5RyF
-j5Eys3j56cCna35d3neiryNAn1wa8zsXoKRmZ2zPMimUaV/6Gfq/KXneuchage5I
-mfMbKWTCKFWelSbTXb2VZI0y2SnmJOi+tHpVrqwbMT0E3TGqAQp6MlWyS6Se9vyw
-a052idRBHStSfMFBoUqnKn8eVn5TstNaG/BFyURKdooGHBSqLFeVjuZdlyFXq0pH
-867LkKFK0JpVmXyPW6XKHndEE+1qse0i9TwWKHsHXN/jXrlvkdUALZZyEiMlVaV8
-+WnMsOfPuVVK0j+FKNf+OH6FN685USvQeFVmN9ID7gbHJQ==
-```
-
-![Logic XOR Bruteforce](./assets/logic-xor-bruteforce.png)
-
-### Larger Old Design
-
-Another old deprecated design that brute-forces a result for each combination of inputs that I found
-somewhere while trying to find a better design than my other old bruteforce design. It worked better
-than the above one so I used it for a time.
-
-```
-eNrtmVkSgyAQRHWGH8+QK+Q/Z8n9L5IUZkFlcwZw61jk51Uj1YXt4Ji7uQ3Pfnj0
-ppNcEO5c2DtXG2FnyA6SLZWk5hA2wOmE3k1YVejdvfl3JKk5hA0AIYQQ6oW2nKPw
-z1Jm9g49ffPP+P679/1Rtoog9a05Scc5A3TUs5TyfMFT7fK2p6F/SyWUpdQx/Bo+
-H4guH4Xpc0QCWjORQkmYFZWg6ynDjbaU4QZoTYqojL3RWKGFk2tpoObM1cJJUERl
-HcqayjB+AEfN6aOsqQwDB/ACMyMcQBGV6ahkYVXJqm8719x4juHrq0pOxB3CEBRR
-WSsqo82XZGsmPjO2licqA82XHJqcGT6Dbh+VDXrccSrrcWdUhvIOOCm+ZKIDLuiA
-U1R7NZ8PRGU97jit0+MuEpX+oaeZy55XaQXeHb7Cr2i9ind043oVbuyT1jhhbZBI
-LyYxxyk=
-```
-
-![Logic XOR Bruteforce](./assets/logic-xor-bruteforce2.png)
-
 ## XNOR Gate
 
 Output is low if only an odd number of inputs are high, else output is high. For a 2-input XNOR, it
