@@ -92,14 +92,14 @@ smaller, and the varying lag characters can be beneficial, although it can produ
 side-effects.
 
 ```
-eNrtmV0OgjAQhO0OL57BK/juWbz/RVRAFOj2B4GudGhITL6OjGucbN3m2lzOd3e+
-uea0ZFGYLZR2ZQvdsLKEMlpHraosq6obrcVVlX+s6sR4qnBWrjyrX0+1WxxZVhxX
-RXEopJBCy8K2nRP9aikA7/07fXLp9vSvRs8dKD47FNrv8FHfJ/roBF467AhSWZ12
-oDn5ca9/YfixEBvFk+90Vf76KUc2SPgBprHk0i0DSwvKpCQlJSUlrZsePSrVplO+
-mjhbnhH17G+Ud/P89qdqUcAVTLoiZVT+SRgipEWp2AmGISTuOXhg2ToMEXvn7sS0
-bxhCCrkiZVSyb2TfyL6RlLSOA3i4f9OnLwU9h11Bn0WZiSwUiCyYdEVaW1SuMAKX
-8AhcghTK0S8yAk+je4/AY70u4p1w/sSQlPRIdJsZ9ypR6b9/p+r/cyNXkT5q2mkl
-FWSeoRYO72muSEnrppsn0vx6AORryBg=
+eNrtmV2OgzAMhBsPLz3DXmHf9yy9/0W6BQoFHOcHAikMEVKlL0Nc04ycuvltfu4P
+d/9zzS1nUJgslHYkC90wkoQyGWfNquRl1U1GdlblG7M6CzxWuEhXWqgfq9abHMlL
+jstNjvJboq9SSCGFOcK2nBP/1VIA6r2e/nPp5vSfJusOFOMMD+1naFT7RqNOoNJh
+hkllc9qB5qbjXv/C0LEQYxUuFtrsnW7KX1s5MEHsBarGkkpLGpbPKKOclJSUlPTa
+9OxW6S065aOIqytmBGPWC+XdYn7H59XigKhQZVSktMovMUNYWhxlO6YZQsIxmweW
+0maI0JO7E9O+ZghTO75pbn9SWiXrRtaN3OCktMoC9Zu/+3JgzHZU8PeiqrEsHGBZ
+sGvOAXP7k5a0yg1a4GK3wMWk8Bz9Ai3wOLp3CzxU6yJcCad3DE9PwWxciZbpcW9i
+lfq9nnr/n5tEFaij5pVWVEKWHlrD4T0uKlLSa9PijrS8ntmzyCc=
 ```
 
 ![Logic NAND 4-input](./assets/logic-nand-4.png)
