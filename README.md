@@ -1,6 +1,6 @@
 # KOHCTPYKTOP
 
-A collection of my solutions and snippets for [KOHCTPYKTOP: Engineer of the People](https://www.zachtronics.com/kohctpyktop-engineer-of-the-people/). **Beware: spoilers.**
+A collection of my solutions and snippets for [KOHCTPYKTOP: Engineer of the People](https://www.zachtronics.com/kohctpyktop-engineer-of-the-people/).
 
 ## Levels
 
