@@ -66,43 +66,43 @@ Tz59YgXd1JES7QUzx8cQ
 
 Output is low if all inputs are high, else output is high.
 
-### 2-Input
+### PNP Design
 
-The left design produces a stable output with rising/falling lag of 2/2. The design on the right is
-smaller, and the varying lag characters can be beneficial, although it can produce unintended
-side-effects.
+By using multiple PNP gates (one for every input) with a shared output, we create a NAND gate
+with a low rising/falling lag of 1/1.
 
 ```
-eNrtml0SgjAMhIXlxTN4Bd89i/e/iAwyYNsklCK/WTodcD5jY5tuU2vzbB73d3V/
-Vc2tpNBwpmHdlgLDqi+zDeuhcDgcG6YBUOcYpmGXhKFsKIVd9Pr0vVr8HYt7tXgc
-OTsOaWgIs2VoLgVTLXI4rm7YpXO1fnUUgFiX05Z3Ff1T2G4WhUq/SKGjuULV3nBK
-sYB68+pwFMMVRPzPPBrvaG4Kxp4YKV5Tl7T+zBJMUlJSUt/04lKJiewCDI9sCkSd
-FtlGeDOfrXanfPY3vuZOCoz2C0ulKYYwbSG8g2KoCQuSh5j2u7j+vt02XG/X9tmj
-kCKIeGXRoZD6k0rmjZfIG5lVMqukVK5LYeecAmZ4qPnbcFQGmUZ4M6+Mdm2fPY6v
-eZQJSuVSqdz5pNuk5lqJjJWUYpi/1aVXJ6WQk0f5HFyj2ImG83/FM+6/SKVcl9M1
-J4uUUiafDK6kpA6kcvjHUBDxZ/l99QiK9AEyr8dg
+eNrtmVGSgjAMhqU/L57BK+y7Z/H+F1laXCi1yZZCUcxfZJzxS9ImtSEZ+p/+dn10
+13vXX2ouKn6sostcK2bsgkI3fa9YauWM3McTKL7saZli5l/UeEY727E4auu2I9qW
+xjPyWFGRiocohnLOySNQANl7Ox348PErgR/jooaveHYvE370QpFoKuNikdlF3dTE
+VZlYao5XiUz0OMJrYJdCiZGliIvckkRCXEUDqfnduWtr/uzcEX8aTo/TAflOyrNF
+idgm9dFTMxtjlaFTxL7Ko+AV99c0ZaokJSUlZaqUKP7TfdYS0CybrDmh0Tliecs4
+pUejV7Jl1pxMlZZbbDbgNS32GRtwvcVmA05qu6r8G3JVOV5iIlV0LVeVqNZ9Y6p8
+7qXkERyqdJl2rKXK7W/Qx0OCzGHB1OI4lSLfRFfTwhZbDyYaUajzkpIap23ece+S
+KvP3dho/nPVlL4q4b3+iGa1XSUnL6AEZKR2/7qHIFw==
 ```
 
-![Logic NAND 2-input](./assets/logic-nand-2.png)
+![Logic NAND](./assets/logic-nand-pnps.png)
 
-### 4-Input
+### "NOT-AND" Design
 
 The right design produces a stable output with rising/falling lag of 2/2. The design on the left is
-smaller, and the varying lag characters can be beneficial, although it can produce unintended
-side-effects.
+smaller, and the varying lag characters can be relatively beneficial, although it can produce
+unintended side-effects.
 
 ```
-eNrtmV2OgzAMhBsPLz3DXmHf9yy9/0W6BQoFHOcHAikMEVKlL0Nc04ycuvltfu4P
-d/9zzS1nUJgslHYkC90wkoQyGWfNquRl1U1GdlblG7M6CzxWuEhXWqgfq9abHMlL
-jstNjvJboq9SSCGFOcK2nBP/1VIA6r2e/nPp5vSfJusOFOMMD+1naFT7RqNOoNJh
-hkllc9qB5qbjXv/C0LEQYxUuFtrsnW7KX1s5MEHsBarGkkpLGpbPKKOclJSUlPTa
-9OxW6S065aOIqytmBGPWC+XdYn7H59XigKhQZVSktMovMUNYWhxlO6YZQsIxmweW
-0maI0JO7E9O+ZghTO75pbn9SWiXrRtaN3OCktMoC9Zu/+3JgzHZU8PeiqrEsHGBZ
-sGvOAXP7k5a0yg1a4GK3wMWk8Bz9Ai3wOLp3CzxU6yJcCad3DE9PwWxciZbpcW9i
-lfq9nnr/n5tEFaij5pVWVEKWHlrD4T0uKlLSa9PijrS8ntmzyCc=
+eNrtmVGSgyAQRMO0PznDXiH/e5a9/0V2Y4xZEGYAJRhtKatS9RhphqRrzAy34ev6
+467fbrjUDAYWB8o4igPdPIoCxRtHzarUZdV5ozqr4pGqPQYKSpLjKdj3OVZKDY6o
+VOq86ickR+qT48oCg28wnZyBDDxC4FjOSfoaKYDovZ7+cXnMmT55684UrxkJOs2I
+0diOXnGCKJ1nqFQ2pw8wXOJ4ir9jxLEQr8VYhZMPD850U37/KRsTRF9g11hKaUvD
+ShlllpOSkpKSnpse3SqTRaf8K+L2pRmm5nihHF7Q10Wf/U6bS8eikypjXdA6aJVH
+NkNosci3nTeaIcTW7EuPrwvLSNHDDGE9GY1MSTVDXdUz2bQOWiXrRtaNrBtZN5Ke
++AVcr9/S3ZeOmnVVSPeiFt5gWEeX/cIyUqCTKuiURkqrbNwgfza+9Ra4qBRhqZXX
+As+j726BW7Uu7Eq4vGNIqlIwG59F2/S4N7HK+L2eJv+f81QZdVRYaWUlZOmhe3h5
+z1NFSnpu2tyRltcvu1nIPg==
 ```
 
-![Logic NAND 4-input](./assets/logic-nand-4.png)
+![Logic NAND (NOT-AND)](./assets/logic-nand-notand.png)
 
 ## OR Gate
 
@@ -110,7 +110,7 @@ Output is high if any of the inputs are high, else output is low.
 
 ### NPN Design
 
-By using multiple NPN gates (one for every 2 inputs), with a shared output, we create an OR gate
+By using multiple NPN gates (one for every 2 inputs) with a shared output, we create an OR gate
 with a low rising/falling lag of 1/1.
 
 ```
