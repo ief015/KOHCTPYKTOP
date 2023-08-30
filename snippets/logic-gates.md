@@ -49,7 +49,8 @@ Kt1VWjzyCY70Bc87x7Q=
 Add or remove NPN gates to desired number of inputs. This design illustrates a 4-input AND gate.
 
 Although it is possible to use one of the inputs in place of VCC, it can cause varying lag
-characteristics and unintended side-effects similar to the 2-input single-NPN gate shown previously.
+characteristics and produce unintended spikes similar to the 2-input single-NPN gate shown
+above.
 
 ```
 eNrtmUsWgyAMRYUwcQ3dQuddS/e/kXpSqT+irfipekEGenmK0fOMJ+EebuXTlQ8X
@@ -88,7 +89,7 @@ KvP3dho/nPVlL4q4b3+iGa1XSUnL6AEZKR2/7qHIFw==
 
 The right design produces a stable output with rising/falling lag of 2/2. The design on the left is
 smaller, and the varying lag characters can be relatively beneficial, although it can produce
-unintended side-effects.
+unintended spikes.
 
 ```
 eNrtmVGSgyAQRMO0PznDXiH/e5a9/0V2Y4xZEGYAJRhtKatS9RhphqRrzAy34ev6
