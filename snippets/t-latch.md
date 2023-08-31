@@ -1,15 +1,25 @@
 # T Latches
 
+This T-Latch comes in two flavours:
+
+a) Larger but very accurate. Rising/falling lag of 0/1.
+
+b) Slightly smaller but less accurate. Rising/falling lag of 1/1.
+
 ```
-eNrtWVGywiAMfLD98QzvCv6/s7z7X8QZxDq1EEoipNDYaa1d15AAayDLffm9/bvb
-n1t+OIcRexB94u4A0W2IrotFF+287w4QfTjSn9pYFPg41ACYvzv6D/Kri5XnEXcD
-osbiZgh2scgOTm+LNlaNuCGGdM7nXwEFkDzlKG23jGK9VKPA+/pNLhDci28pLuKF
-4VGzWFGtKnvUJpKy/hXFqgIFhT4jlhzta0RTaAw4waXtrhFltLmAktGAL0eDx9VX
-pENSOSd6iol2edR6ob+AW6w46IWlsl2G9vEvOYQ4zOfRCJIFkzuTyqmnf1g1IcPF
-bkXx0Wbsf1h9AU62quARGY3pRRj8Ben6hQxXIqQmwiaVfXYyRbug55z+7drcDr10
-3tgONTE0qaxA4fmT9LnhnuHG57lSBcnVi4aSR5JeGACFoPgCidyZVOpIpWaNu13e
-KMnByLqtZEGql1VSbRbVqbV68BwLcLqKLahxS6SymZBCgNbY1VCkg1KZPuXooFkl
-heI1PYCB8iiqVSWPztgLowhpZq9yE+lpskrge1LZXZEesZTHsQ==
+eNrtWlF2gzAMKxE/O8OusP+dZfe/yPpYVxxjK+CkQNtA+7EKE8cxQrE3fo2fHz/D
+x/cwXiJnNzy54RAzTPdzo+FwO0Ouhka8xEfsmXMaQ3aTwTdkebr4XRqyPF1g2lU/
+TxWmDf08pSM+1ToG5xiMangdw5kTztWj17FAk8yQErNnOERHLL4GmKudVyc5l/xj
+QgGY33r0ik+f/wOQ42o07YgCuDuzQDNQo7cLfDSbsIGKY4GOF2+R+BLebiwj/ffX
+jKp4wLdN2paOi+xXK5T6vsLWGlaifEbGwCvRQiTjd+Y+0/mWYsXiXJrR7I7MMA1f
+Pz6cu6celgmz0NnQQ+eLdiMlL1qr2LKjHe1oR98b7VTpoVBval8cWneusX0nFEze
+F9WfBTdRjjXow3wuxOrRKwhui7AtOlWenwxpwhtcKVOakSGY7duRYaK1jgS98ffq
+M5pY8ihDlw3OGQ3mM58vj1WLLXgFqjM+Q0GJFE9CpJ0qfe0XV4bgtp0qZR20pvJH
+apnHkSH1qlDpBFWVx5JhXDd2VfnKKCjdWeBqmkXfgMuyfyZNNGo9qx6xLDTnEtxH
+N7Jxmc98vjxWe+hGSoZMN1JbvBJVNm1z64flsDZ3AU28zZ0YWmpzH6INzFKXq3aa
+bWZrVKXZmN+jy11TjdxUb8SZVKXdiV6F6nqVeI58W9njdlGTNx7T425Clfa3HtUH
+zqMqSTXSKkWmDW2d0sZf/7tQK50c365S/VajKulrtEgOtEXyFGUfbKnr0li1oEog
+Pl94uwbjacmzveyzvGhnRrofv0gYyIo=
 ```
 
 ![T LATCH](./assets/t-latch.png)
@@ -17,47 +27,25 @@ heI1PYCB8iiqVSWPztgLowhpZq9yE+lpskrge1LZXZEesZTHsQ==
 
 ## T Latch in use with simplified variant
 
-On the left shows a simplified implementation of this T-Latch. At it's core, it is a simple
+On the left shows a simplified implementation of a T-Latch. At it's core, it is a simple
 SR-Latch, with both S+R inputs connected, forming T. R is only available when the output is high.
 There is a major problem with this approach: the latch will oscillate while T is high, as S will
-allow R to open. To combat this, we pulse T through a PNP gate to take advantage of the propagation
-delay within the latch.
+allow R to open. To combat this, we add a PNP gate in order to trigger T with a short pulse so that
+R does not receive a high signal, as it's NPN hasn't had enough time to open.
 
 ```
-eNrtmkGWgyAQRIVykzPkCtnnLLn/RWYGTB46NJBWEJLC5+pT9rPtLkWdb/P18jCX
-u5knzTa40OqFpnHEUG70QtsoonGbddvbEa1O+Nm1SiGFFA5/7/DGqIxo81EPjjjY
-/ZHCyT/OWXk4CiC676e/3O/z5ONhFXjBSOOc2o2/STFsXREt86L8Of7R5cD+hLY0
-lU/SV+JlHtR2YgYzKlKkaFCwcfoa0aoXe2IVV2hmvVagNf1JynORcXZcAAfEBRuN
-lHTY/m1FB7DKbilos6QfY1n4Brsb3iqrXsS8oUF3Rn4hzjYkHWMBnq/nhBan9S+t
-sjxdO5OZtsqdlFZJ+g3PjTivf2mV47+r9N93ZCMFuDwn7YYiY2jQa8/t366s8pAv
-3tvEFVNbTaulbEPSARfgKLPKth3a/gt4ZauM7/tp7bvS+kcH6V1lMKPoyM+jQqEl
-Je3TSLf/CgXV3t2q8ARH+gHyjcdH
+eNrtmlF6gyAQhAPjS87QK/S9Z+n9L9IW0WiAXbOIQTv6+ZKfYRMc9lsgw+fwcf92
+9y833Cz3yYXeLnQHR1zKnV3oD4rowu3D/XJEbxNe26sUUkihLnQ2oZBxJKGbb9NX
+LUbVhMaIdM71haGc8+UrUADZp57+8vEZbmM8rAJHDBlr6nD9NcphH2ZUbJfl05XQ
+2PH4g56pNJ6k88CX+cLbQov/MGaQ6MJ5qTeBNZ5otHxsl/I5cLbvBy3Mmcfnlvmq
+4ux8bJmjSu9pU/J8L0XjuGByIyUlPX+q7JaCaZa0t7pT9SRYNpw4VSp1I6pqTtSZ
+p9zzuBintUgPXoRLfobi57Vl+RaulSorF+ByqqykTJWkvdWNIs3uZvItXGQB3ute
+5XjGU06kAJczpPtTSIlUdR2UmpPjXJUqdzn1fk5Mm6lvprVSmoe0twU4sivsl0+5
+RWqbgy1omzPuXVJl/qmnravK5A8U2b3KRYtNPU+9wqAlJa2sKgVPQl2812wZoeD2
+ZI41H403ZKQfNXDHag==
 ```
 
 ![T LATCH - usage](./assets/t-latch-usage.png)
-
-## Bulky T Latch design
-
-Bulkier, but more accurate. Mirrored T Latch snippets:
-
-```
-eNrtWltygzAMDNr85Ay9Qv97lt7/Ik0Jb6QVliFgCAydTBdhW9auZMP9+/71+K0e
-P9X9FjlPZFilGUp3VqktVs9T6r/JhhI1vLGOcufIRQJgT0OJGCqzutRwFkdLDauI
-ocoV3bDy2Tk0XMBCq0WXhbahRA05C6lzJMerK81jVuQEYzXMjvNKR0iQwykgI+mE
-0lxGYg2m8pNFTl3OiX3UKAD1ykefeHuh/dW32yEvcI42h6hoe6B/wAwd/F+3pagc
-GQVB+2Ebts0N/yjmCHrbsQOHnu5th/e0v1/ttvdDHVHblopi2M8p2gWZ3u4oXKZ9
-Fjpe7qtkPx8rcli0u0xRWcYZ6rCbKMOWimT5apFUHgFFdIozwuPgYriZkGbY9vjy
-XoGgILZwnowEX2EnXxWEbskyFOCNMqQSck1BKxBFoi0K7PMHvSK7DySVZmapC2S2
-NBDslQ0vWDfSBelgqqy6EeMFmgCkboQgWjfCqRvh9HnReM9Vc27FFMpQh93HqTlL
-kMq5ryeT6KA4qRjmSCUVh86heg0GZ4mNlCW2qoa93DlogpBGR8S9wT1Z2AKcSyUt
-VygHOX8/C/D1UGTVjRm2V92rjNdR7kuQSa+QVTdm2Kb0eSNfnWqvMs4yl91FSeU6
-77j1fSGM7tDQJmmxPSXEd5wuWVW6T569xZ6UWTaqtAu+Vwm6W2WJIXjE6st+c68S
-S73x1lk4khi6T0Y6f33uW7qxzTvuVaRSv/LRUV4yyQK7JlG+FtE/YzCz4RWrSjhp
-ZfxJjzVNr89yVM0ZSyXm9s3nQPQtNuCNyJr9LsiMdv0+W+NN8ZXv54JQjyk6y3yG
-wt8FxT6KNDn+ADSIyH8=
-```
-
-![T LATCH - bulky](./assets/t-latch-bulky.png)
 
 
 ## See Also
