@@ -5,15 +5,15 @@
 A large, but accurate SR latch. Rising/falling lag of 0/1.
 
 ```
-eNrtWltywyAMrFn/5Ay9Qv9zlt7/Ik3dZGrHeMFSeGTYOP7w7AiExC6yYf6aPy/f
-0+U6zR+Wa0zDYDec7tdpw//rlGFGb+PmcRTDYDdMztcjw+R8jRua2NEmqmZXzcFx
-pEPsGNbQvASYFx3HMqc8ug2Xci4c/xYUQPT2ozf88Q/3p1W/Gejtpuhfb1h63KIL
-FB8vj8aoKDgKsJbBbH9nosNr2P2CMpyBcq4keJbiqJH9JTXpKBpZYtkxCk3pSig0
-IqEjM/TdpTJNB1J1QFP6dehzpCvVb3B4pQzmonCwTFLZyaoEShbs8XXLqitOVFkk
-krFI16FSomXqFR+R5kY2UyjLOEMhqawllVDdWEkq0apudFSV3GeJ4WuqSs5BvYD3
-s96xNQu77/obVHQ4Vb+xGmwX6S1azCsuldyrwDejlP08piRYVjD7/Ull213u1B54
-YLaqHOp9FWzjMxw+C83ZAac8yuBgZzvghaUyfvvRGi+V21MMqyMQokM1yZJXb31Y
-yMyyUl41UKQfcL7Haw==
+eNrtWkt2wyAMrBlvcoZeofuepfe/SPPc9CV18UiIgGkZExbJPGHxmZGArG/r6+Vj
+ubwv60ukzGmY4obLrRQb3kuRoet9s87jLIYpbmiunyNDc73mDR3rdZRRDbsaHpyK
+6RA7pjUMh4Bw0KkIc5rHasMtnUvHz4YCyNZ69Ip/f9Lt28N7Hei1Wii+nj26/YRs
+f/lozIrCQEFbRjOfEfZKs+9BOVMMllkMDXK/pSIdjYZLKgdGoSXdCYV6JHRmhv51
+qbTpgGMUWtLPQ/cj3Sl/Q4VXmkEvigqWSSoHiUqgZAHbgmkDXpRlwdzqgrSMZj6H
+veI9Us7pZgplGWcoJJW9pBLKGztJJc7KGyuySu6zxPA5WSXnoDbgwwgpWMx6PGnO
+oaJDyVEGy8F+jfQObeUVbdnwivZIs+9lisEyytD/JpXn3nFbN+DJZasF3/hUMJ0l
+O7rjbotyHpVwcIwb8MZSma/1aBcq/Yx6979AiA5ChdpS6WJKnmWtvDpBkT4ByWXH
+Zw==
 ```
 
 ![06 KL2S1 DUAL SET-RESET LATCH - variants](./assets/sr-latch-accurate.png)
