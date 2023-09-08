@@ -1,23 +1,23 @@
 # KA180 - 2-BIT ADDER WITH CARRY
 
-This one needs some work, it seems more complex than it needs to be.
+## Half+Full Ripple Adder
 
-- Verification: Passed (99%)
-- Design Score: 320
+- Verification: Passed (100%)
+- Design Score: 282
 
 ```
-eNrtWl2agyAMlExfeoa9wr7vWfb+F9lVVECSKCCfto1+9m+MCRDHgfTx/fh6/rrn
-j3sMNfvbGLrXMRzM0Az7GlKdoZv2YfPd7Rm6bO/fRqoz5AI81MbRI228khzF1iNl
-feqOdQ4lfEOyT7lXXRQD41kzDDG4Go/bth9IgOV0V+Zx0BNQTznfq24+Cj1SjUcl
-g43lPt1wknMkbxMKgD3a0fEjJkf+HYnfCV02Fp2/r2cIaNYiQ89Ek21Mqw3uf/h/
-m0dRO8Hn5ZGrZFGscJ4MFMNxOxbruX2TdQaHMwTU/za/IEN9sEgCK0XHD4ptLeov
-TCTYpkOe2XI9vaLxVbqjHSlKpMZD3Gmooe+G4owroykq9GovWNo5JeYPRo0qDW1F
-cY1fsHd/oS0aosJFo/CKMRtVWgIYGSJMkXLFAuJFXCEZMmhwB1YpAcoqQja/EzQn
-FA2G1Den33Z0I7R8Rq2alSbgTINNc74hVRoZfrRuLFeVCEQqT8Ch5hUEEt6h2cgr
-NJqFjEIlNKhTbHiuNDK0CbihN0ODfFOqQOf71atPO4o0lG1Q/YAGVzE61iLfJZVr
-lWmtqYxId2wtn1upsq3oHR6xbCmTf0xvbwduwmKl6RuiwhjhdHStchNLWYg0lkJo
-Yo2bEX95vTiGs0q0jiK+zKkVcOn2Z9ZCyirg4qLBa1XAO1Mlf7SjkSYRpn6sLGHW
-Z+xZeR0a/t510SgAhYp0t0W6XygZy6bkXTIWLbY3UqQ9GUnY/gAe0cj/
+eNrtmd11wzAIhSuuXzJDV+h7Z+n+izT+CRYIkO3UaXKCfdy6/nQDUiSMyvA1fF5+
+yuW7DB9HzpcWkjo3CIs4d1mk0Db1LLYetExZLOKTi3gSCLVDpXpCutd6VOvPLeJJ
+2Tqq7bl5ApRlnGnvzAm/096UK978iYXBtOtPcsfZ91zIKUxhClOYwlE4pXPkHxMF
+YF730+sL7foHbu5cbzA9nG+HD6rbjXC8MDVYmhHYzdHY2mYyA80xY7ohaAzGM6ox
+MSYb09IBWsxKTIwJa4Nq/DGPxuyYgWns9WzZxLcu+JQiunTBpfSKlKfIGZiS/jOF
+MeFPDFdumNwUR9+eIkcjadL3ps8eKuvcbb9WJmNai+bN5mlbu5GW2hfl/tFAp784
+SZuLJWnSZw2V8Bc4WmIENMh21Waa+IZ3tKxllbmVVlrlM7Tpxud+RhoGUnbA0Rp2
+t2op0uZiSZr02UNlnBkezxtR33hhFhRpnXCHMBgiDIbIvDFp0gyV+0KlrLCIDK0l
+VtixSzRgyj9FZog1RdNhVjArqxTc8pmPQ2OlOm1khlFGeoc2F0vSpMdD5X0VpXV7
+LH6vQUmkdRZFh6oteF0Lp6oUrrfJLHdK3RRWutv/G4jKHfvjVv1AnTJ3QN0Ce5vQ
+ZnU16UtTa+92To37T0Klfd1Pu1vszZ2qEjhPi8e/lbz8zcui8w2eNKmxZ3xkRLKP
+X5N5yOg=
 ```
 
-![10 KA180 2-BIT ADDER WITH CARRY](./assets/10.png)
+![10 KA180 2-BIT ADDER WITH CARRY - ripple](./assets/10-ripple.png)
