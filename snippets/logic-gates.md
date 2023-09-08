@@ -192,6 +192,23 @@ yl9S37tKRkX6Wa78/84VHOkC2inHOw==
 
 ![Logic XOR Compact](./assets/logic-xor-compact.png)
 
+### 4-Input XOR Gate
+
+A 4-input XOR can be achieved with three 2-input XOR gates.
+
+```
+eNrtmVsagiAQhYXxxTW0hd5bS/vfSIWSqMM4in6IHI2Ifo8XGk8jtM/20b1N9zJt
+s2ctVGiYVX1EqXUfoQ0kv3fL72IpNE5sncDM2oKw38T/FGbWFgPADDvwn8O2OnLM
+3pCDcEWojJyGiSNV5MzXDZHTCJFUvstBCCGE1QldOmfji6NExJZ0+uX+Ndb/49rw
+20tRcstYb6FujxTUUzpsMakPpP7MWBrvjQNopDdU1MrnHL9e0IJo2+jxmZ4U80KV
+WYKCgoLWTWGV+2hKxlprT6ZkrIg60Nqtkoo0w1/K3pO+3kJvbKTyIzjfGyoKIwVF
+VulvAboY9cOo0k1Kos3u05ZMUwwNZggKqxSzSr8U1ZluJNiPEMeo5WmlgUdyb6Cv
+QG9glTXOcq/NgU8Lo802yy3S1DHDpDnw1bl3zAmDqug5c9yHWCVf0mm5/zu0fCZV
+04xXNOTvefI3SqDIdkCzOtIHZDLHzQ==
+```
+
+![Logic XOR 4-Input](./assets/logic-xor-4.png)
+
 ## XNOR Gate
 
 Output is low if only an odd number of inputs are high, else output is high. For a 2-input XNOR, it
@@ -207,3 +224,20 @@ cPa4R9oBZ4/7P6nYa7cmjtTUKvW+nTafHb7f+cnSakUj8ywUOsafYB0c6Q57gMcH
 ```
 
 ![Logic XNOR](./assets/logic-xnor.png)
+
+### 4-Input XNOR Gate
+
+A 4-input XNOR can be achieved with three 2-input XNOR gates.
+
+```
+eNrtmUESgyAMRUvCxjP0Ct33LL3/RaoOOKghougg+GWcio+UIuE3Evux7+5nuq+x
+ryOlUkMSS3KPpNRgeNzQWDMzDOuqYTh/0flcGxpXwv6FPiWXC7+fFvVkX6WjTg7D
+DcNEz5H9iPZrzg7P0Typdl2FIQxhWNhwDOcofoyUmcUzn/acekUbbwQXU8/kb9vX
+/Or8FuS63uK0iWkvZTdsFoevU/J3ZTo+4NnnLuoPic49SR72cvin09iPS6EDnqZS
+XAbAEu4nuzz3LdIaXKlgMeVMklZQUFDQZ1NIZQGaEbA+9knmxLHwOtAGpJKfJ4bs
+Rs3ie7JOGxZS/cU8tqeQQCGkoI1ElbzYXmuAut1IdZGyKrPHbGumOYIGMQRtP6pc
+pRqanwghrbOmxFj+oRRuJYPwrEBvIJXZOfEhZvCxw8l7dxXSkilwlebvChbKjJNO
+9fGC1kevyXGfIpXymU9jKxj/aCWoi+4xC6A3p5cr0vr4A+szyDU=
+```
+
+![Logic XNOR 4-Input](./assets/logic-xnor-4.png)
