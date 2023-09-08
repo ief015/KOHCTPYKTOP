@@ -172,11 +172,12 @@ XliSKSIJWr1VFl7k1mmoyL25Ader2A3XuHW6UQFfwoIaN6hETqF5atynWKXcj9Mf
 3B3WbypEaVlE6pkJ91mJ0gGKSDb5mIvO33/9wZEecvfHLQ==
 ```
 
-![Logic XOR Simplfied](./assets/logic-xor.png)
+![Logic XOR](./assets/logic-xor.png)
 
 ### Compact Design
 
-Smaller design, but can produce spikes in certain situations.
+Smaller design, but can produce spikes in certain situations. Not recommended unless going for
+low design score.
 
 ```
 eNrtmk0WgjAMhCXDxjN4BfeexftfRJ/if9qURGiBgYebz6FpaMeU2h/7w/7c7U9d
@@ -189,7 +190,7 @@ Pe4sTfjd395GrngHvMn+GtmQQH+5xz0hja37pnCkSa1Sv+K0KOzf//wUabWycExF
 yl9S37tKRkX6Wa78/84VHOkC2inHOw==
 ```
 
-![Logic XOR](./assets/logic-xor-compact.png)
+![Logic XOR Compact](./assets/logic-xor-compact.png)
 
 ## XNOR Gate
 
