@@ -33,3 +33,7 @@ Az60bTPgla1Sb+V0Ydjxw4UnB9J/vUTD1hadsqL/De22B7N+bxwM7hiO9AD8CMfO
 ```
 
 ![09 KD124 2-TO-4 LINE DECODER 100%](./assets/09-100.png)
+
+## See Also
+
+[Line Decoders](/snippets/line-decoders.md)
