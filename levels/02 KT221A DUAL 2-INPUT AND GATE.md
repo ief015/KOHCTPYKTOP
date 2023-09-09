@@ -29,3 +29,7 @@ X6JK+zpPkyi/Ph38tKDQuenqL4RrOzQxkjFvOmDGdA==
 ```
 
 ![02 KT221A DUAL 2-INPUT AND GATE](./assets/02%20-%20100.png)
+
+## See Also
+
+[Logic Gates - AND](/snippets/logic-gates.md#and-gate)

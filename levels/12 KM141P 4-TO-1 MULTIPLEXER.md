@@ -43,3 +43,7 @@ QE5FErZ/UvTJmA==
 ```
 
 ![12 KM141P 4-TO-1 MULTIPLEXER](./assets/12-simplified.png)
+
+## See Also
+
+[Line Decoders](/snippets/line-decoders.md)

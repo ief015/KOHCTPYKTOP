@@ -26,3 +26,8 @@ HkrpjVBjTSku8DYR6R8OAMvv
 
 ![16 KA181 2-BIT LOGICAL FUNCTION UNIT](./assets/16.png)
 
+## See Also
+
+[Line Decoders](/snippets/line-decoders.md)
+
+[Logic Gates](/snippets/logic-gates.md)

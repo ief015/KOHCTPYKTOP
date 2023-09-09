@@ -21,3 +21,7 @@ X5N5yOg=
 ```
 
 ![10 KA180 2-BIT ADDER WITH CARRY - ripple](./assets/10-ripple.png)
+
+## See Also
+
+[Logic Gates - XOR](/snippets/logic-gates.md#xor-gate)

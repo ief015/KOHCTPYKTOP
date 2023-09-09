@@ -30,3 +30,7 @@ mFDoOrpNj/srqpyf5bT1pPzLTihr/EnQj9R+4l0lFLoJ3dJIkeMJ5zrHaQ==
 ```
 
 ![03 KT141AO - 4-INPUT AND-OR GATE](./assets/03-144.png)
+
+## See Also
+
+[Logic Gates](/snippets/logic-gates.md)

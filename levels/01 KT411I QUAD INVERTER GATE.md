@@ -12,3 +12,7 @@ haLoZW3ZSInxAmpTx6I=
 ```
 
 ![01 KT411I QUAD INVERTER GATE](./assets/01.png)
+
+## See Also
+
+[Logic Gates - NOT](/snippets/logic-gates.md#not-gate)

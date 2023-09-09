@@ -22,3 +22,10 @@ Mq8qVMx2nrxz/WYoPevOh+xxPyVUrp/70RiE8t/ALvlmgb6rC5iqY1UBG1Rhj0cI
 
 ![17 X901 RADIO MESSAGE STREAM DECODER](./assets/17.png)
 
+## See Also
+
+[14 KC74S 4-BIT SHIFT REGISTER S-TO-P](/levels/14%20KC74S%204-BIT%20SHIFT%20REGISTER%20S-TO-P.md)
+
+[D Flip-Flops](/snippets/d-flipflop.md)
+
+[Logic Gates - XOR](/snippets/logic-gates.md#xor-gate)

@@ -27,6 +27,6 @@ gI9w5Tx3o5/BxlfkVeOLa7i4hqv/tdBb6+oo+/qI5Bz/AFF00Co=
 
 ## See Also
 
-[SRAM Cell](/snippets/sram.md)
-
 [Line Decoders](/snippets/line-decoders.md)
+
+[SRAM Cell](/snippets/sram.md)
