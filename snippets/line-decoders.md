@@ -41,7 +41,7 @@ pkr7dZy2uK1v7z0hq+XBxfcs5D06aVLjn4V6tBdkpB8UUcoT
 ![3-8 Decoder](./assets/line-decoder-3-8.png)
 
 *I don't really have a good way of demoing the full use of this line decoder in the snippet
-design, but you can see it utilized for
+design, but you can see it utilized in
 [15 KR8S1 8-BIT ADDRESSABLE SRAM](/levels/15%20KR8S1%208-BIT%20ADDRESSABLE%20SRAM.md).*
 
 ## See Also
