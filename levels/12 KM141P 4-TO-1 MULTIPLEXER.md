@@ -2,8 +2,29 @@
 
 Essentially just a 2-4 line decoder with a simple input switch glued on top.
 
+## 100%
+
+- Verification: Passed (100%)
+- Design Score: 206
+
+```
+eNrtmWFywiAQhck+/niGXqH/e5be/yJNwSAJy9aASVUeTJzRbx9LHHxZxH/6j8v3
+dPmavGvpFHYIJbt2CKdVP0coqbu9QqdL75+qa51qU0a3NyMXOYUUUkghhU8hDOWc
+1FugANSrn4bmHWLzbo4PLyn1NSB8mEdtAyTyGWhcIv79PAyh04Q0CptKnaaQgt7u
+SnS89MAhekj4AsOtlQGR1wKu7F8D5A15eN8VIAPyuNCtAaQJz2xxmJIfbG2qpd7l
+uaSkpKRj0yGsEpWH2q1+hDEy/sgLM6+YI9uz4qIlJaVVnmiGK+8pKbJtcjlytstW
+8xraKDdGrs+qunfnoiUlpVUeY5UwtXhKLRctKSmt8mS6OtrRLMuq/TK2t27Ms1aq
+WXNWXLSkpK9llf0nSkj/zKVdp3LQbVHkpZp+SG7T6jG4eYQulnYzNY3WtKmurFek
+pKSjU2S7xsc60mFWqV/9dOVm9hY7L9FabnnR76xILQo0P7PQoSUlHYQC2x/KOY6k
+tB96BciA
+```
+
+![12 KM141P 4-TO-1 MULTIPLEXER 100%](./assets/12-100.png)
+
+## Best Design Score
+
 - Verification: Passed (99%)
-- Design Score: 223
+- Design Score: 200
 
 ```
 eNrtml2SgyAQhHXal5whV9j3Pcve/yKJAvFvaBWNW5YNsWLVNw0atJ2AzU/zfPzV
@@ -17,32 +38,7 @@ LSYUM//45hr3IVbpb/tpP0fC51jI6wjKHERF19Klv+eFLVOL5tpk7/0dPn430Z0j
 /bYjOeUFWYrItA==
 ```
 
-![12 KM141P 4-TO-1 MULTIPLEXER](./assets/12.png)
-
-## Traditional design
-
-"Simplified" multiplexer design by ANDing selection bits and their compliments.
-Includes input delays to help clean up output signal. Relatively inaccurate.
-
-- Verification: Passed (99%)
-- Design Score: 346
-
-```
-eNrtml2WgyAMhSXXl65httD3WcvsfyOjUrRgEiyKRUSPetovkV+vAeyf/c/jzzx+
-Td+l7M3xDEcTuSqOpF6PT7G1Y25H05t0R3MVx4Kbw4h71HHj01iCY2IZu3RH7gZN
-AYpx/Lgdwwc64d1B855QRlq736Idp3CO5G2iANhjP7V8OL8dS7oT3kNhTdzh074b
-/gpO3N2XHLLU/rgSHUpqt75jOTBXVlifb5tM+ZRtYlAaUqdTxxFvPZTJ9mivJWeb
-FWZsyOXeK99CR3cS+VipjhNAPF/OrMmUK7isghiTpbsreKxrmx3RwOVlzz0iBrbQ
-L0vOAEE/DDjZdgXJFrTFYOpW7o/sgiYJ6SalrZOqKn272qiOss17CG31fEt6Y6ls
-tNFGS6EoPlypWiojcSOHq485/aH52hfp6ULzRZ64Mbn191A2Zc/3VR1CRIoq5Q6R
-CFwVQ/YZJMaoSeUXpPKeA3BdKqHL3dli+K0h9jEDcLS48YO4sfiJjjZX2eYqr0q5
-NapThFRNd8bE0tmivqhSLO+W1wqzzhhyXEAqdy6RU8YlcpWqQ2xEHkO66PJ4hGrl
-3TbUheibujYeWTnPNy5AcPXvLK2FLx9lsJQwL/kTT6k+6mYcUikfcwYUBylSVqnk
-j/1UUqxS4sbYzN4FqR/SrKIdoSa5QCqkmfK8UvFj+ob7KkqNZ+T5xhbb+y8dnPq1
-QE5FErZ/UvTJmA==
-```
-
-![12 KM141P 4-TO-1 MULTIPLEXER](./assets/12-simplified.png)
+![12 KM141P 4-TO-1 MULTIPLEXER design](./assets/12-design.png)
 
 ## See Also
 
