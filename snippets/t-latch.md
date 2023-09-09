@@ -24,7 +24,6 @@ Pl94uwbjacmzveyzvGhnRrofv0gYyIo=
 
 ![T LATCH](./assets/t-latch.png)
 
-
 ## T Latch in use with simplified variant
 
 On the left shows a simplified implementation of a T-Latch. At it's core, it is a simple
@@ -46,7 +45,6 @@ ZI41H403ZKQfNXDHag==
 ```
 
 ![T LATCH - usage](./assets/t-latch-usage.png)
-
 
 ## See Also
 
