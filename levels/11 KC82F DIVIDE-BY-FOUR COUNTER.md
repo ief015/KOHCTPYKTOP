@@ -1,6 +1,6 @@
 # KC82F - DIVIDE-BY-FOUR COUNTER
 
-## Dual T-Latch design (Best accuracy)
+## Dual T-Latch design (100%)
 
 - Verification: Passed (100%)
 - Design Score: 99
@@ -17,7 +17,7 @@ npOUlFSh27zj/okq8596uqyrtIb3fXow66GBcMQmJd2E7mCkFxW2xy4=
 
 ![11 KC82F DIVIDE-BY-FOUR COUNTER](./assets/11.png)
 
-## Dual T-Latch design (Best design score)
+## Dual T-Latch design (Best Design Score)
 
 - Verification: Passed (100%)
 - Design Score: 93
