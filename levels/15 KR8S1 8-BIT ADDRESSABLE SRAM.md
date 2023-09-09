@@ -1,27 +1,26 @@
 # KR8S1 - 8-BIT ADDRESSABLE SRAM
 
-- Verification: Passed (99%)
-- Design Score: 1009
+- Verification: Passed (100%)
+- Design Score: 1007
 
 ```
-eNrtml124yAMhZMrv3QNs4V5n7XM/jcyjW1Af1w7dt1OWpLjE7fX6EMQhIBMv6df
-b3/vb3/u0+3IexS8d9+0INy7FEIj2gciD/Nl1FJwxs8Pe2Yx4OrAiMzHtWCrki7I
-fERrHISqMh9rwYz4hI/tkZ0+Qtm8PeNjTtzho/s67fexVRI7v6uuVS1xZz+ysUH6
-sT8+Nn18bjzi6HgcPg4fh48HfRzJw2cXnNM59F+zKiLpdVaV5YX5qflTcwVSX9Pt
-IU+3VZWqq2feHyp/KePlP/WmFX7cLuaq/n4/t6aIL17IqdzsL3Iz7tBVTsruZKMY
-z9noup3IgV2M99mwbW7ZtTlztpETttUD2xVP2eBsX7m+nLLB2YveZ4OzwdmhYROZ
-sMHZpe6R/YgTSdMm5RndjTIJKhb4zKpyiVO1Zdr3vj6BZai14T3fXxq4WMDcFVG/
-nSqjzkMd6lCfUV8nVIq6iTNXmYFUwqxyS20g44rjisU5rrIcuXY2DlxtOXCFc6m/
-4P5S7kY7n/GXt/OJ/h3cF+OOUPlJqpiB7lcIWJP/ZYG85mBl1VGSeBZIxeRvUssm
-XGM5cFVgSbnOsri8kXBVnTN/hfkbLEtvasi43F8zTry/vgflo/p3cP9rroxQ+XWh
-ks6GZlNkDR1m+Kt+XEKHzbKaDcqVLEOrXEnCTuPyL4+EOgeubHDd3pLjcn8Zt9vO
-u7jM3612HtyX5Y6s8gtVfeKAuO9c5kMdKsuCoRwwdff91AFUyd/q7Bu4xnLg+t10
-yzWWA1c4l/oL7i/lbrTzGX95O5/o38F9Me4PCZWnzptgL205X/c1VVSu4xcO+qS7
-DubOOTja0pSo1bJoy+LVcAje4QrjrotaSZfYAonctgCXhFsz0nKcaLjq+DvntlZM
-uFoMXL1yS7h1kKVcbHNBueBcUC4oF5wLygXlgnNBuaBccC4oF5QLzrXjSHarejUj
-IROWeF14xv0hoTK/zqq1awD3k6K2S+Z/bOR22LSsLXtZ+rNh24NpqiQ/cwpqws1W
-M5KUhURurXNcKtsB3uGKnnFSrvpw/nrTwV/CdWcFsZ0Pc3GOi+u4uI6L67i4jouj
-XD3MermujrLXRiRS53811dAC
+eNrtmmuS4yAMhI3af+YMe4X9v2fZ+19kJzYPAVL7kU3sqeCUqzJpw0cDlsGa+ff8
+6+tv+PoT5unMZxQM7ocWlOaTCskWMahLQy6+q6nrhbFxdRvOepSzHuWsx6pgUOcB
+j3WzDnjMQzuHox5b4gGPQfl5n8dwxuN0xmPf0N1zNVSDcmCutsSdHkPXPQc9Tmc8
+hrMep4r4ao+fEXOGx0Mex+Lh3QWX5Zz4x6ICMM/n1cfXfHRcWa/9PubpIc9TVKF0
+QarmW041aXn9pUAaVXIbV3XpTS0/2CtlQXd6DWjklq3lteJYvYOHj4/mPTw4Pv/g
+0FE63jEPCDMPbn4pTbyXWWFap3Bw+Fonsy4b1qX3l+X1aohNlyQ79FZv6Ul36On2
+4HTZoItPfwSNTb5wvrS3HDo13tbLDZ/lFLTyvMg3X7kijkC515fvr45ibvTcFV6H
+OtShDvWz1Z8TKqG+9E+u9ASyysY1Lnwu7sJNj2Cbiw1uLOtwQblCudjw63NBuUK5
+QrnY4PLxBeUK5fJ+vuO8ugF3hMo3qahuuHaHIHHxv+6iOzXuxMgEwNu49Y3WcKEK
+9tx1I+hyU4UON76gcLhpj2ZzcymTG5tlckudZj8XS1Y/pzab3NxmhwvSz+VHmyuk
+n/MY3Wte3YuLESqvC5X0aVi9FLEGUY0j5YJyQbmgXPTrxsPcuuzg3pF71by6F3es
+Ki9Uq5RR/945PQ+Nsjlv4HJLXuFirkqJGdy8InC4KkFicNV6wuCW7ZXFzZrj1+dW
+KT6zn32u0gxu/tvh8vFl/czHt0pE/ZB5dQPuh4TK5/Li5e2HnRfvJa3W74XqjWHJ
+matNnpEUz5VQVdyEuqeq3HGngnLBuAKPmzO2LjfV23OhqPB60vULiHCu7xcQ2s/F
+Wu93m+v7lS2/gO23bEcNrooqBtdQxVThqkK5QrlCucK4QrlCud34YrcKtdpFtxJG
+f74wx/1fQqV9Pq/m4Wn+v6h6/Q7sM9XUnB6FZd4761W9yDjTmRZXLuJCznOv6ud+
+gI9w5Tx3o5/BxlfkVeOLa7i4hqv/tdBb6+oo+/qI5Bz/AFF00Co=
 ```
 
 ![15 KR8S1 8-BIT ADDRESSABLE SRAM](./assets/15.png)
