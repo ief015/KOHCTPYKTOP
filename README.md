@@ -57,6 +57,10 @@ A collection of my solutions and snippets for [KOHCTPYKTOP: Engineer of the Peop
 - [XOR Gate](/snippets/logic-gates.md#xor-gate)
 - [XNOR Gate](/snippets/logic-gates.md#xnor-gate)
 
+### Switching
+
+- [Line Decoders](/snippets/line-decoders.md)
+
 ### Latches/Flip-Flops
 - [S/R Latches](/snippets/sr-latch.md)
 - [T Latches](/snippets/t-latch.md)
