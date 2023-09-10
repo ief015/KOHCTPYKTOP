@@ -5,16 +5,16 @@
 OL2J1 DUAL J-K FLIP-FLOP ([open-konstruktor](https://github.com/ief015/open-konstruktor)) design:
 
 ```
-eNrtmVGSgyAQRGXan5xhr7D/e5a9/0W2gskaK0MDQzAGR0srVS8DiD0NyPw9f11+
-w+UnzJPlHChQ7IHBEhhsNYo18F5j0J42H7icoT7weg+2wKWZsmPn7K0cD/RADzxG
-4LsMudrlGn21ycmnekOerJ1zhllHh8A4nZP0ESkA9Wqny4F4xTsi0yhEFqTQ25Gg
-y68EjcGECin5egMvGaLRtUiFrn9BiirvyOlpaFrtVFcZTRbomecCyyOeg2X5++gM
-vR1JewtFVnkEigZpNVBuaL3rder0aKrDWdX+MVb5PgoeC+8rpwNRNOTC0PRAVpmZ
-N8I6ZqHEDNNj5cOqQqt3Xc0khAdTq3zO6bST2tOazOiZ5wLNoxHU/jFWCf71pokS
-q9yqRyuZU2urxKnTPmonis2qHb4AP36z7d8qG0c08Hkj0G30d+p0b7UzPfNcGF7t
-3XfA167C/35WYo9bxLqDRqlwilwsRGis1tV4VskrN4ycOkWt6soUm1O7LcvQTje+
-0WeP+yVWqV/t9FkAtw6rXZIA1u0VAJlvpJmSwVqly3JbZ/KJ4ObgtEIbhboSo555
-LuTyqDV/N86woyPdjz+VbMgU
+eNrtmlGSgyAQRMO0PznDXmH/9yx7/4tsBZO4VoYeHUSDGSytVL0MGJxuQDJ8D1/X
+33T9ScPFc5woUPyByROYfC2KN/DRYtJ+rR04Hml94O2afIHjbcqOnbN35kRgBEZg
+54FHOflqe6w05Koh4LLeyS/ezvmE6Uo5ME/npFwyBaCe9XQsyGe+IjONQmRECr2X
+Ah0/FWgOJlRIzbcLeM0QjU5VKnT6CkpUeUZBg/LM4VlnZOyCbOdKYSrjCsVUdnMk
+rZ8XWeU7UFQkTwXlhta63aBBNzbSxjmJ82qhG6s8joLHIvoq6MdQVCilc/pGVmnM
+G+EdlbDEDMuj4b91g9butF4ppBZcdxVzzqAN5o1YYoZwZTtXClVZH1roxirB389U
+UWKV8/zQaubUe1cSNOgRWiD5bGoBsQDvYM7pH0mtxwQ+bwSaje9Bg25Ma+dvgFMp
+J9BC8x3wqTPw3O0q7HGLePfIKBVOYcVChMZqXY3XPNhywyhoUFmbV7Cpmc+WFnwa
+XKTumW+02ePexCr1s56+PuJ7h61ddADe7RUAxjtSo2awu9ITb95m8Rch5B/U92ch
+f9aJM9u5UiyV2eqeOcOOjvQofzm5yA8=
 ```
 
 ![JK LATCH](./assets/jk-flipflop.png)
