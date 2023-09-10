@@ -1,19 +1,20 @@
 # JK Flip-Flops
 
-WIP - using level 07 as test bench
+# WIP
+
+OL2J1 DUAL J-K FLIP-FLOP ([open-konstruktor](https://github.com/ief015/open-konstruktor)) design:
 
 ```
-eNrtmV12hCAMhTXXl1lDt9D3rqX730j9r4EEENTRIXicc8aPQAx6DdB9d1+v3/b1
-03ZNzvFoQ1KOBMPsHmszpHzD9uIed98jxZ6g9EeOLnA1w7Cdj+InJ/O1Evvnhi2L
-YrKrPOgUDpDrKjH3mv2Gzd7hoFyVM0MzrMAw+1P+gXnOmM6RXkYKQDzLac/ncyrj
-P5BClysX0aksoRJqEE2X+zoUqtA1oGAFUDaHcyoU2/Fc6VpkulTy6BCP4aahVeh/
-ohiTc2NwGB8AZudoDj2zx/oQkcTZTfl8GW73XRBr0XJd4L6x2AhrXevG8GkYHJ8p
-ZpqIJqms0TwKi4ZRox9CTSqNJlKguOX/JtJsIXxyvMTSxshohVKJhwUzkjfijJwT
-23UO3RaHiiEIEclKEEP4XgEBMYSslU40TEhroO9XhjtIJZ5LUUDvd0dBqUxrWZJK
-RPNGaHKHoNwlUDL6XGpZpfcqeTsTtlYZzP2ceImRPPwrjPIJuOQVH3Ynq4wI6UHL
-AkZvSnErZTh981zaHqe7bI8HqT/d9SnLH31a0LJO4Xq/a7vc0SzJZ2W7m4Kb4V4q
-zambAAqUZBqRSpti1zgBP2eP+xCplM9yStoi2w2GCX7C8/w9bvemLus3OAEnJ9Lb
-vEJfyRQTUhOWGui1ijSWPy6SyN0=
+eNrtmVGSgyAQRGXan5xhr7D/e5a9/0W2gskaK0MDQzAGR0srVS8DiD0NyPw9f11+
+w+UnzJPlHChQ7IHBEhhsNYo18F5j0J42H7icoT7weg+2wKWZsmPn7K0cD/RADzxG
+4LsMudrlGn21ycmnekOerJ1zhllHh8A4nZP0ESkA9Wqny4F4xTsi0yhEFqTQ25Gg
+y68EjcGECin5egMvGaLRtUiFrn9BiirvyOlpaFrtVFcZTRbomecCyyOeg2X5++gM
+vR1JewtFVnkEigZpNVBuaL3rder0aKrDWdX+MVb5PgoeC+8rpwNRNOTC0PRAVpmZ
+N8I6ZqHEDNNj5cOqQqt3Xc0khAdTq3zO6bST2tOazOiZ5wLNoxHU/jFWCf71pokS
+q9yqRyuZU2urxKnTPmonis2qHb4AP36z7d8qG0c08Hkj0G30d+p0b7UzPfNcGF7t
+3XfA167C/35WYo9bxLqDRqlwilwsRGis1tV4VskrN4ycOkWt6soUm1O7LcvQTje+
+0WeP+yVWqV/t9FkAtw6rXZIA1u0VAJlvpJmSwVqly3JbZ/KJ4ObgtEIbhboSo555
+LuTyqDV/N86woyPdjz+VbMgU
 ```
 
 ![JK LATCH](./assets/jk-flipflop.png)
