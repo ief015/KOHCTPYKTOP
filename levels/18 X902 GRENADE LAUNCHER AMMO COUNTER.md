@@ -1,5 +1,32 @@
 # X902 - GRENADE LAUNCHER AMMO COUNTER
 
+## 100%
+
+- Verification: Passed (100%)
+- Design Score: 452
+
+```
+eNrtWm12ozAMhJn86Rn2Cv2/Z9n7X6RdPowJ1mBLIQkt5IX2vWEsj2Vkyc7t8/bn
+41//8be/dZ7PDyOi9Kmz2G/+R53FzkPsB2KffRwW/zfSTMRAaiTOlPnuJqKV2LVb
+XJQ2WsxHtdHiQkRrV5GIvWdUUW+xXxG7+gnQrdzRSFzc0Uxc3pRnEZF86BicPql1
+EMcocAp3NHY17I7OO6qdb1SXZ5vd0Xnd0dxV5zJXcM4PJ54uzxnSOdjXgJIsfuNo
+ujjdyMzuHUoQNgoLna8imj+lUJs7dev7j+Ia6Gi1hcvVNYjO0TtF65a5bpkoohwV
+EcWWJx/RsjspgrBbQLUi5opsFCZ39pFqmduxoumjjd0SmvupgNo+SqjZMsa3qODB
+nGuhlOjYbxOF5GL7pjwS5fMi0iYSVoXK86OMtkwVZhWX893BhebOdKci+nqV1hy/
+IhykKOajIxXxhIr4KyJDPfpeoTLFFVxuutAno7z6fKFnCZXcKXXdeSN319nZsr8A
+1ys4AzknVdZBZ964LcCxLsCFjw7MZ/gyH1H7KKCIEUVUisw+h320l67w9y0Nb5pV
+iuTfQBlFx30yKzjYKNO2kYFOuyFFdN45MlDso7BRSrvjrfwacmrAQGkXlWmbk6Z/
+AyilXdlnrfd1iiAVQfoI0keyZYVWFOAMBDSeNE9+r6xyijp89Jo177G7+0z3KlyV
+c3onDxFQpPcqSSur5P5oHLPfGPURpI/IoxS55/P+rKOcdQEfWX0uHlRdBXiiP/SM
+G+KMG+qMG3CdgNdNDwYmLShLEj1pW7mUgZSyeOe2kC6fcQs0e6LpjFtzKRVx7WeD
+yyjafsatucyGxDhrlmjNWbMPZbhlnPcE/OBQWf7G0cadTM/qsP6pkPixUGjTwJk3
+srnouPut0I4iBhR5s2jPCl6vCIcoUhWHT1Em6iBFuuXAXiUi9ddz0BdEpC+e1cqH
+```
+
+![18 X902 GRENADE LAUNCHER AMMO COUNTER](./assets/18-100.png)
+
+## Best Design Score
+
 - Verification: Passed (99%)
 - Design Score: 402
 
