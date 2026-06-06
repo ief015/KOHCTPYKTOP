@@ -1,7 +1,7 @@
 # KL2T1 - DUAL TOGGLE LATCH
 
 - Verification: Passed (100%)
-- Design Score: 92
+- Design Score: 94
 
 ```
 eNrtmk0SgjAMhSWPDWfwCu49i/e/iA7KomOa1rRBfh7Ixs9HHKb9DNTxNl6nxzDd
