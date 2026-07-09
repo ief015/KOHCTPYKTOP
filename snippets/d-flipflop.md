@@ -1,5 +1,7 @@
 # D Flip-Flops
 
+[Open in Open-Konstruktor](https://openkonstruktor.natecousins.com/?level=14+KC74S+4-BIT+SHIFT+REGISTER+S-TO-P&design=eNrtmlFygzAMRIuWn5yhV%2Bh%2FztL7X6QDBuIaSbhmHLC7eBLCvKwhshCylfFr%2FHx8D4%2FnMH6UNAoppJDCroSytOFvwlU0NckXDknLFkrSOI73F0Yj9dYzRs6cJ1ScOUeoOnOOUHVmek6JcE7nxN5mCkB9nafzhvlYsDvvRpdvqNS4ZtIL6LRfP6sUNp0cAOLTcKTSzUkUGqQ6DSdFcL%2BULpdrXXMMDVvhJmOU3kEJFYhP9%2Bq4533nC40sr9LN8ja9IiKpkTArVJKStkBBa1xE8Q9%2BL0MlaTMUpVotX9W6pp0NilKtn6%2FqXTNUkpKepDDzxjAJhE4R7liTbruOLYnycKdP7n9NwMWbgLtTbDEpQyUpaRHFertbeSPAvLFamIWXNwJd5I0MlaR9hEocTcCtUBkKCx4Fel%2FnBM5ojzJSK1RGljco0Mo6Z%2FUKeGxMq4qtmJvV5BapXwE%2F6vlMBfzlX2oF3KxxS%2FxuUdcaaGKMjmvcPnUCGrxQKaU17noV8MqhUn%2Bdp%2BZDK15S3j96mGXdk0INHbvFxipXBb8CjpIJuPUXtfbGCBXPC78CjgoT8MoRSdt%2BAGQnx9k%3D)
+
 Design score: 45
 
 ```
@@ -20,6 +22,8 @@ lQ==
 
 ## Mini Variant
 
+[Open in Open-Konstruktor](https://openkonstruktor.natecousins.com/?level=14+KC74S+4-BIT+SHIFT+REGISTER+S-TO-P&design=eNrtmlFugzAQRGsPPzlDr9D%2FnqX3v0gr0yA77I4BB4LJEKEoeZk1Yq3JbjbD1%2FB5%2Bwm37zB8bHlIKOFzhWGI6bFYOL4aRWHNiiGdIT3HtcJRcpcrjxJKuIPQdIO60HGDmtB1gyUrmm6gPEp4tDCVc9E%2FEgVgnu30j%2F8vlN57WDensTMKeBTTLTDoHZo0xU4fcKmTQdGtFJjyPKfwKcodYtAsy7PIxQ4xr4pEzndISdm%2Bmt%2BTE%2BdoT0fynHCRVYqKioq%2BN5VV7kZBKJgWLZGVhX4oCAXToiWysiCrPBWlbTIee%2FdciwjWCs2xstAltdrkzOvg212xBUwtiawsyCpPZpXc7tjvM1Dd%2BBZWye2uUlWqbpRVXoWSunHGyqoSDZGVhX4omFWyBhxoiKws7GmVT5pxx2vNuJuoO4s0qgpNol9I6QScaPkEPNYpuDaCrcuvqv8c7TPjfopV2mc7rZtDvw24uwGMsjH%2Fs1Bt6AN9%2Bx%2FaJk%2F5WFn7LYns%2Fxq5XUuu6jL9yCGOVB6%2FpFTHYQ%3D%3D)
+
 Smaller, less accurate.
 
 Design score: 30
@@ -37,7 +41,6 @@ bEz/S1Ta9AG//bu2yXM+NtZ+NZH1XyM/1xqzukw/0sWR8uMJ7+DHqw==
 ```
 
 ![D LATCH](./assets/d-flipflop-mini.png)
-
 
 ## See Also
 

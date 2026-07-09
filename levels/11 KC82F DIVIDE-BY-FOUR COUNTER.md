@@ -2,6 +2,8 @@
 
 ## Dual T-Latch design (100%)
 
+[Open in Open-Konstruktor](https://openkonstruktor.natecousins.com/?level=11+KC82F+DIVIDE-BY-FOUR+COUNTER&design=eNrtmUEOgyAQRWW%2BG8%2FQK3Tfs%2FT%2BF2k1piYgMzJIjfo1dtGXnyGGPBnon%2F1jeIfhFfrOc18gGHxB%2Bd2bgiG5iyuOoYKKXVLbUdF8Pbmg%2BXr0oQbPBAieikvVK09yBhlkkEEGrx%2BclnOSvyYKYPWpp18uy29cd%2F5%2FimTpiFepzFQUmhQuoMmwomw0rJhq2bgwKSnpn4yUM%2BEmVZKSkpLem55CldC%2FO%2FrKsCprrDnh%2F1ZWZUlJSe%2BpSmgUojbguliMBtySoSFweGVoNOCctKSkVGWpKiexqCJVKPSspWg1C%2F%2FKEACnJSkpVbknzeoO8%2BXWrKCiAVePk3RFi6FZsAEnJT2hKpufcRtU3xWEtDrjtndBoWZ5xk1K2oK2OePeRZXrTz3dtqq0mvdj1mDWpoGwxSYlbUIPMNIHriHHEg%3D%3D)
+
 - Verification: Passed (100%)
 - Design Score: 99
 
@@ -18,6 +20,8 @@ npOUlFSh27zj/okq8596uqyrtIb3fXow66GBcMQmJd2E7mCkFxW2xy4=
 ![11 KC82F DIVIDE-BY-FOUR COUNTER](./assets/11.png)
 
 ## Dual T-Latch design (Best Design Score)
+
+[Open in Open-Konstruktor](https://openkonstruktor.natecousins.com/?level=11+KC82F+DIVIDE-BY-FOUR+COUNTER&design=eNrtmUESgjAMRW3ChjN4BfeexftfRO0w49CSpE3sKPDp4MLHbwrUb5tMt%2Bk6P9J8T9PF0w4gTD4h5dYsTFXrjvgWGVFloTOi%2BXgkofl49KEmzwQwompCZ8Tj%2FzoghBBCCCHcjTAv50g%2BMmXmzTNOX5w%2Bn2Xc5ft8uUhrvLojLvH6foWeW6gel4y4BS7egtozKOjJ6UhHkpywySpBQUFBz013YZVM%2FrWf8Z%2FFgTFH4pa4TwsKCnpOq1TNkEndgOvGwqybUmADHjHDcliYlqCgsMqh60bWqZpRZCJ%2Fz6EMjJ7JxKQFBYVVdlMWiz7Lodusseb027vfomt1x5gxaUFB%2F9Qqh9e4DRraCAdq3MEsaCAbCQoKKtMxNe6vWOX2Gadtq8rQ5n1YiSRWbCJswEFBnfQHjvQE75fG%2FA%3D%3D)
 
 - Verification: Passed (100%)
 - Design Score: 93

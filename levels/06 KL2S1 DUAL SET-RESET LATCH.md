@@ -1,5 +1,7 @@
 # KL2S1 - DUAL SET-RESET LATCH
 
+[Open in Open-Konstruktor](https://openkonstruktor.natecousins.com/?level=06+KL2S1+DUAL+SET-RESET+LATCH&design=eNrtmkEOgyAQRQvDxjP0Ct33LL3%2FRdoQk1oLgzIhAXwQNr78qOj%2FgBIe4b683PJ04VZTJxC6OqGP9bTQxTp%2FryJEiBAhwksKDcNc5cBqGMonexxxOufzJVIRSTY7%2FfDYZD2d%2FJx3pd%2Byp%2FGYJK9ZvyMoFNqe6g4tuFtJhpaJlLujQ1EJhUKh16ZDRKU6bxQeIhTaMRWDu4nKk2EoecoCHArtmYrB3T0F6RhRyYsHhTKrJCpLXa11phCkUGjPs0qpd%2FdwUdn8H%2Ff%2FCLOhniU2FDok1f1b9n6LP%2BCNozLd7PTgt47dboLtVgReSyi026gsOjTv7s4S6Q19pMap)
+
 - Verification: Passed (100%)
 - Design Score: 58
 

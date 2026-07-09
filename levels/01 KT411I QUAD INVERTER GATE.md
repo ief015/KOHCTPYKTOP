@@ -1,5 +1,7 @@
 # KT411I - QUAD INVERTER GATE
 
+[Open in Open-Konstruktor](https://openkonstruktor.natecousins.com/?level=01+KT411I+QUAD+INVERTER+GATE&design=eNrt2V0KhCAYheFMb1xDW%2Bi%2BtbT%2FjUQS4YV%2BViaavYY48HCYIeFMP2Y2k12VXZQZnhwfDo7RIxlU4ioE5bWHs0qQIEGCBAkSrBJ0l3NjfDjVWgdnvjrX%2B%2BLN83vdEDWEKIr2rSUbKdaEl6qypsons83fjKJob9p8VaIoilKV%2FrViOJtxA84WoyjaVVU%2BfZrBJqIo%2Bpeq9MbdImUTURRtpioz33EnbqITWuyKFEXRb2qZd9yvVGV45uvxmf8sFEUva8lGiowNER3HnA%3D%3D)
+
 - Verification: Passed (100%)
 - Design Score: 172
 
