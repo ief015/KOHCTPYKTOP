@@ -1,5 +1,7 @@
 # KR8S1 - 8-BIT ADDRESSABLE SRAM
 
+## 100%
+
 - Verification: Passed (100%)
 - Design Score: 1007
 
@@ -24,6 +26,26 @@ gI9w5Tx3o5/BxlfkVeOLa7i4hqv/tdBb6+oo+/qI5Bz/AFF00Co=
 ```
 
 ![15 KR8S1 8-BIT ADDRESSABLE SRAM](./assets/15.png)
+
+## 100% Best Design Score (cheated lol)
+
+- Verification: Passed (100%)
+- Design Score: 235
+
+```
+eNrtmVFygzAMRLGWn5yhV+h/z9L7X6QdEogtS7IxCTEgKO1MXtcyAa8le/wev26/
+4fYTxqHlPLSQlL+GMBRPI6LUjBhXE1JyDo/fplDuXlE4iBGpRqh9MdT6HF3oQhe6
+8BxCzUlXOvkKYTy9haixCmFgwtUR066G2nvkU05BKM5MNRFPmedM6Rzpx0QBiNd2
++s+nn+VK4i6UZoqERp+qFPcTU0yBziqNUguNbwYmZffr1Ok7KTZQ1n5E8aTIKPDg
+EkVM+di/H6L2nY6kOWGVVTo1KfzbcHrhtx1FLc4wjvq3yijnREvLYNMl08KHg1On
+qDa0V9M88hoTvphV2gW4NPHkdgerrIBcGkjPo7acqX+InnM67YZiA7UK8FLOCYU+
+C3ApLpbVqx7GUedWmX4ImTIv5FokS4Zyr2xKTp0encYjTLCsdMmxmeojVOtVR2Z4
+6AIc7NBKbCMzjHV8RuNM1Eb/ES9WZ53yfMZpzyV29q7nY6GcVUpv+6a1SoDUcYTj
+FeB77nGrD8LeASeN7rDHTb7H7fQMO+Dlllt2wEnd456tV9kBT7V4nSO91Srlazvd
+a3b4YO7na5VOr75h1FhRiupPOdIfNynIbg==
+```
+
+![15 KR8S1 8-BIT ADDRESSABLE SRAM](./assets/15-cheated.png)
 
 ## See Also
 
