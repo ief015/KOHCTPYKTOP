@@ -2,7 +2,7 @@
 
 ## 100%
 
-[Open in Open-Konstruktor](https://openkonstruktor.natecousins.com/?level=09+KD124+2-TO-4+LINE+DECODER&design=eNrtmkESgjAMRSFhwxm8gnvP4v0v4gxildKU2lIG7aOTDc9PMwz9poThOlzGez%2Fe%2BqHLGQgRIkSIEGFjQpnjS2HvxpdCmUdGqpkzJsmsm5OQbDjVLmdGyZ%2Fx757VqZwT%2B5ioqgajnL4OnWM5r6M6KUwayhkK%2FUXqP%2BoelQ0qJn2uO12spU%2Fqzhp0%2FoWt1ZjWpqISpu9s17S%2BI62dMMkqoVAotG2KVUKhTdBozblmgX1fDW1JzlglFArd21g04FmfVKNmqJW0JTljlVAo9Oga7Be1WCUUCt2bBvpFy%2FZK9Mq1tCU5n9EqD%2BhxxykdUmgjVCV7u7rdAfffHaZ3wGWjxx2jZo%2F7dcrogLvYtwNe2SrDUU4T0%2Fb%2FXKgcoP%2B6ida4tqjK8r4VOmwNZr1vdAZ3Dkd6AHgrx3I%3D)
+<a href="https://openkonstruktor.natecousins.com/?level=09+KD124+2-TO-4+LINE+DECODER&design=eNrtmkESgjAMRSFhwxm8gnvP4v0v4gxildKU2lIG7aOTDc9PMwz9poThOlzGez%2Fe%2BqHLGQgRIkSIEGFjQpnjS2HvxpdCmUdGqpkzJsmsm5OQbDjVLmdGyZ%2Fx757VqZwT%2B5ioqgajnL4OnWM5r6M6KUwayhkK%2FUXqP%2BoelQ0qJn2uO12spU%2Fqzhp0%2FoWt1ZjWpqISpu9s17S%2BI62dMMkqoVAotG2KVUKhTdBozblmgX1fDW1JzlglFArd21g04FmfVKNmqJW0JTljlVAo9Oga7Be1WCUUCt2bBvpFy%2FZK9Mq1tCU5n9EqD%2BhxxykdUmgjVCV7u7rdAfffHaZ3wGWjxx2jZo%2F7dcrogLvYtwNe2SrDUU4T0%2Fb%2FXKgcoP%2B6ida4tqjK8r4VOmwNZr1vdAZ3Dkd6AHgrx3I%3D" target="_blank">View in Open-Konstruktor</a>
 
 - Verification: Passed (100%)
 - Design Score: 150
@@ -21,7 +21,7 @@ Az60bTPgla1Sb+V0Ydjxw4UnB9J/vUTD1hadsqL/De22B7N+bxwM7hiO9AD8CMfO
 
 ## Best Design Score
 
-[Open in Open-Konstruktor](https://openkonstruktor.natecousins.com/?level=09+KD124+2-TO-4+LINE+DECODER&design=eNrtmlsOgyAQRQvjj2voFvrftXT%2FG2mCfYAghQESbI6Er%2BOdQaPXIeNyW67rw6x3s1w0AyFChAgRIkQ4WGjcUGW0moxGm9G%2BhkJYkK9rxj98clw5Z48PR0UkOdvp%2B5DXDPNCoVCfujcnR2U7I03Tb3eg9fVJbYJ6uiO6u6ow8gH9ho3peEeK71WRVUKhUOgAKudZM1YJhUJTptVL2xBZZJ57hVVCoVArsaOV2p3YnFbykUUfGauEQqGTVZX66k7yNjtT3YhVQqHQcVtd%2BdUwyteNZzHS4R1w%2F7NEHxMKbeqAx%2F5S0eMuo5oOeLTuoh53uM2OOuAf1LcDPtgq07Od8n2HQrvVftG%2FQjV59%2F8K1Wpt1vzrV7UZ3DSO9AQezMdD){:target="_blank"}
+<a href="https://openkonstruktor.natecousins.com/?level=09+KD124+2-TO-4+LINE+DECODER&design=eNrtmlsOgyAQRQvjj2voFvrftXT%2FG2mCfYAghQESbI6Er%2BOdQaPXIeNyW67rw6x3s1w0AyFChAgRIkQ4WGjcUGW0moxGm9G%2BhkJYkK9rxj98clw5Z48PR0UkOdvp%2B5DXDPNCoVCfujcnR2U7I03Tb3eg9fVJbYJ6uiO6u6ow8gH9ho3peEeK71WRVUKhUOgAKudZM1YJhUJTptVL2xBZZJ57hVVCoVArsaOV2p3YnFbykUUfGauEQqGTVZX66k7yNjtT3YhVQqHQcVtd%2BdUwyteNZzHS4R1w%2F7NEHxMKbeqAx%2F5S0eMuo5oOeLTuoh53uM2OOuAf1LcDPtgq07Od8n2HQrvVftG%2FQjV59%2F8K1Wpt1vzrV7UZ3DSO9AQezMdD" target="_blank">View in Open-Konstruktor</a>
 
 - Verification: Passed (99%)
 - Design Score: 131
