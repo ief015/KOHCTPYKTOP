@@ -30,17 +30,17 @@ gI9w5Tx3o5/BxlfkVeOLa7i4hqv/tdBb6+oo+/qI5Bz/AFF00Co=
 ## 100% Best Design Score (cheated lol)
 
 - Verification: Passed (100%)
-- Design Score: 149
+- Design Score: 145
 
 ```
-eNrtmV1ywyAMhI3WLzlDr9D3nqX3v0jH0Lg2BhlQSP2zYciDvyzyZKwFWePn+PH4
-do8vNw4t4+RCt5gVQlmNyojP8a6IspgVQrcaV30AKKSQQgoPLSzYMXLCabdwbREb
-hUMkdDW3Gm53N3oc0S22ukHbt27x5PjjnOQ/ngJITjv1fLoSrkVxJfzAU8nRsEAb
-VVdefG+pkJLeg84ZlKPqytBXFmxScKZehPjWujtSzgmLrJKUlPSuFDta2FfGGf6N
-E1glfveXnBaqVlStJS5TifQqFP8VF3r+0iprTGmnEM4f4MPCgKI1xGWikd6Exq+w
-oiK6yITTeQRpLMBplSfSkpJep8RWzdBEtSPHbIYswF9CE52ZlRbQtCJAn7hMNNKr
-WCWgGql+5jTFDX0dXbtOxGNbpbHHvTlMbw1NK4RNHXD2uElJTXSv+VLUAVdKbJ2+
-vgPe2SrT007/djTwrSAp6THL816nylT5XaTt6UiZzw+1DseO
+eNrtmV0SgjAMhG2WF8/gFXz3LN7/IjqgCCVN/0CRLhWd8XNbBsk2bbprdznf3fnm
+ulNJO4DQ5QhFaRkjynO0d8sUFo7oZi3r5oj3edQHgEIKKaRwt8Koe4eF0k85RSMW
+Ck+e0OVcqowzpKQLP2PIYspr8cnp0zkJHz0FoJ719Mn78/WdN+6EKlc1HICnnFJg
+iaf0/ab3bNLxJ6Skh6ZjBIWo2TPsnmV4qfQV/V4HmztSyAmTrJKUlLRViogW9T3j
+H+7GH1ilnVUqf5WfGRb3zGAhbYPiV+PCjl9aZbLdIaoNJ/CDFwLBOQv2jGbbLAON
+tBG62OGaL6KTTFiPMkjhApxWmb+jiGGfc4uck8FC2soS2zTDKmolJKMZcgG+wp8I
+rTIz0yJis7GiD4OFtHWrBEwjtXPOuugWRDfB5mG6b6tcp8bt3dX0GndNBVxY4yYl
+raGx4ktSBdxYYtt0/Qr4xlapn/VUQskhZ39S0r0sz7fKKrXld5L2G47kHQ/RUMeK
 ```
 
 ![15 KR8S1 8-BIT ADDRESSABLE SRAM](./assets/15-cheated.png)
