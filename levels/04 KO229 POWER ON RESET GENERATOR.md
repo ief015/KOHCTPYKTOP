@@ -1,6 +1,6 @@
 # KO229 - POWER ON RESET GENERATOR
 
-[Open in Open-Konstruktor](https://openkonstruktor.natecousins.com/?level=04+KO229+POWER+ON+RESET+GENERATOR&design=eNrtmcENwyAMRYvNJTN0hd47S%2FdfpAqKFCkFVEhRbPqScHp68slfJo6PeF9eYXmGeOt5ERERERERLxVDDD2iJFGo6LziWlP6Kk7XHWmck%2FKTqKpmz3larwuF%2Fh1de6NENX1Fqs5c3Z8cTUfl4F%2BWSF9FJRQKtUA%2FM2lu1xIlKqFQqNkZm6iEQqGt4VC%2FCNfnN4%2FudgEnKqFQaFt0TEfFzfWcqIRCLUWlVCe0%2FmDx6Jr6zzl8A047QKEttL5Nnsndt9ulDbgM2IAPjsr8OU9pFij0RxdSd3Ojbhl2mB1tJtIbM77Gxg%3D%3D)
+[Open in Open-Konstruktor](https://openkonstruktor.natecousins.com/?level=04+KO229+POWER+ON+RESET+GENERATOR&design=eNrtmcENwyAMRYvNJTN0hd47S%2FdfpAqKFCkFVEhRbPqScHp68slfJo6PeF9eYXmGeOt5ERERERERLxVDDD2iJFGo6LziWlP6Kk7XHWmck%2FKTqKpmz3larwuF%2Fh1de6NENX1Fqs5c3Z8cTUfl4F%2BWSF9FJRQKtUA%2FM2lu1xIlKqFQqNkZm6iEQqGt4VC%2FCNfnN4%2FudgEnKqFQaFt0TEfFzfWcqIRCLUWlVCe0%2FmDx6Jr6zzl8A047QKEttL5Nnsndt9ulDbgM2IAPjsr8OU9pFij0RxdSd3Ojbhl2mB1tJtIbM77Gxg%3D%3D){:target="_blank"}
 
 - Verification: Passed (100%)
 - Design Score: 66

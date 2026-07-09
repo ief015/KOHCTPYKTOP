@@ -140,7 +140,7 @@ tkr5Ok+ViY66vUn/oj5HCSJ+DUFBa6KJ9Zv/5OKOtD0+NePHHw==
 
 ### "NOT-NOR" Design
 
-[Open in Open-Konstruktor](https://openkonstruktor.natecousins.com/?level=03+KT141AO+4-INPUT+AND-OR+GATE&design=eNrtmWsOgyAQhAvjH8%2FQK%2FR%2Fz9L7X6QvUossDwVEZSQmTT7HArsdljLchuv4UONdDZc1jcKthMq0hUL919Ra4bsxHBRWFEZTWxYmpHZYGEjtk8yqypsctVYYnVn%2BOiiksLzwU85p%2F%2FWhAMQ7n764%2Fj5jPlnf%2B6OYnvBQ84REpRFNZMad2QBpXWoCcLAR2fnI%2BG5MazqSzwmTrJKUlJS0b9q1VfprTnlBY%2FIUp04AnBjtsc%2BI9QqML63yRGZYYAPO1MozQ8jc2uruzQwhj8p%2BMxh9WuXJrJJ1Y2OrPFzdCNaNtMrOJgRhI4XLmTyFKcJGmrDVbdLnkJFC5Ix%2BH1ZZ4Ixbh8%2B4dZBivqtJO%2BMuMl08bSQl3Rutc8ZdxCrlO5%2Bm%2FR8Vqe7mC%2FmiegZcSRvX9occERjBlrS6I7nXEz9Ax14%3D)
+[Open in Open-Konstruktor](https://openkonstruktor.natecousins.com/?level=03+KT141AO+4-INPUT+AND-OR+GATE&design=eNrtmWsOgyAQhAvjH8%2FQK%2FR%2Fz9L7X6QvUossDwVEZSQmTT7HArsdljLchuv4UONdDZc1jcKthMq0hUL919Ra4bsxHBRWFEZTWxYmpHZYGEjtk8yqypsctVYYnVn%2BOiiksLzwU85p%2F%2FWhAMQ7n764%2Fj5jPlnf%2B6OYnvBQ84REpRFNZMad2QBpXWoCcLAR2fnI%2BG5MazqSzwmTrJKUlJS0b9q1VfprTnlBY%2FIUp04AnBjtsc%2BI9QqML63yRGZYYAPO1MozQ8jc2uruzQwhj8p%2BMxh9WuXJrJJ1Y2OrPFzdCNaNtMrOJgRhI4XLmTyFKcJGmrDVbdLnkJFC5Ix%2BH1ZZ4Ixbh8%2B4dZBivqtJO%2BMuMl08bSQl3Rutc8ZdxCrlO5%2Bm%2FR8Vqe7mC%2FmiegZcSRvX9occERjBlrS6I7nXEz9Ax14%3D){:target="_blank"}
 
 Using an inverter on a typical NOR gate results with fairly high rising/falling lag of 2/2.
 
@@ -158,7 +158,7 @@ mrDVbdLnkJFC5Ix+H1ZZ4Ixbh8+4dZBivqtJO+MuMl08bSQl3Rutc8ZdxCrlO5+m
 
 ## NOR Gate
 
-[Open in Open-Konstruktor](https://openkonstruktor.natecousins.com/?level=03+KT141AO+4-INPUT+AND-OR+GATE&design=eNrt2kEOwiAQhWFh2PQMXsG9Z%2FH%2BF9FUaksZEFpwIT%2BkicnHaCX02QbdzV2nh5nuxl2OdAp%2FVWh8ryy0m86sUkghhRRSSOHfFs63czbdZhUR9TivL7fvMf5V8LkflXVEQv0ITbVvtIqoujQURRtoeBlGmVOrPRMplYRFUYmiKDq2Dh2V6XtOlgeKogNFZTYMCx7AWTwoio4elSwAFEWJyq8qBCmKog2jssEet83vcdusyvaJOdbUHnfRhLBTiaK9tX6PO6999ribRKV%2BnFd9nvenHcVheM67%2FwqVTUicsPySomgfzV6%2FB965eyLF7Qnn5cbS)
+[Open in Open-Konstruktor](https://openkonstruktor.natecousins.com/?level=03+KT141AO+4-INPUT+AND-OR+GATE&design=eNrt2kEOwiAQhWFh2PQMXsG9Z%2FH%2BF9FUaksZEFpwIT%2BkicnHaCX02QbdzV2nh5nuxl2OdAp%2FVWh8ryy0m86sUkghhRRSSOHfFs63czbdZhUR9TivL7fvMf5V8LkflXVEQv0ITbVvtIqoujQURRtoeBlGmVOrPRMplYRFUYmiKDq2Dh2V6XtOlgeKogNFZTYMCx7AWTwoio4elSwAFEWJyq8qBCmKog2jssEet83vcdusyvaJOdbUHnfRhLBTiaK9tX6PO6999ribRKV%2BnFd9nvenHcVheM67%2FwqVTUicsPySomgfzV6%2FB965eyLF7Qnn5cbS){:target="_blank"}
 
 Output is low if any of the inputs are high, else output is high.
 
@@ -175,7 +175,7 @@ y5sUCm1Di8/vgZ6bO1Jc3ivWxtw=
 
 ## XOR Gate
 
-[Open in Open-Konstruktor](https://openkonstruktor.natecousins.com/?level=10+KA180+2-BIT+ADDER+WITH+CARRY&design=eNrtmk0WwiAMhIV00zN4BfeexftfRA1aeTWh0ILyM%2FLo5nMKpjgNTafLdJ5vZr6a6bSnQVi90PLRpAoNN8stSegkTp44VeNNGNexQqGwlmKE4lqKEYprKW6qwlrCdYQQQgg7F3I6Z%2FUPUyIS%2B3H64K%2F%2BPvrjZqHEo6lU%2Br1ORGvlQpcvaNSNq9KvGbdEP0ETqBeWZBo%2Bc4eRHIRu%2FlOsTaYlHUlzwiirBAUFBR2bwiqDmeFeOmwk1cwwgiKSoLDKBs3wmZXr24ow7dlIg3bnhSWZwkhBYZVN5o3ltB3njeW0oKCwyiopP%2BzdSYeNpBeWZIpIgjZvlZXXuMNUq3FvbsDDVeyOa9xhulEBX8KCGjeoRLLQMjXuLFYp9%2BP0B3eH9ZsKUVoWUfDMhPusROkARSS7fMxF%2Bfdff3CkO%2F5exys%3D)
+[Open in Open-Konstruktor](https://openkonstruktor.natecousins.com/?level=10+KA180+2-BIT+ADDER+WITH+CARRY&design=eNrtmk0WwiAMhIV00zN4BfeexftfRA1aeTWh0ILyM%2FLo5nMKpjgNTafLdJ5vZr6a6bSnQVi90PLRpAoNN8stSegkTp44VeNNGNexQqGwlmKE4lqKEYprKW6qwlrCdYQQQgg7F3I6Z%2FUPUyIS%2B3H64K%2F%2BPvrjZqHEo6lU%2Br1ORGvlQpcvaNSNq9KvGbdEP0ETqBeWZBo%2Bc4eRHIRu%2FlOsTaYlHUlzwiirBAUFBR2bwiqDmeFeOmwk1cwwgiKSoLDKBs3wmZXr24ow7dlIg3bnhSWZwkhBYZVN5o3ltB3njeW0oKCwyiopP%2BzdSYeNpBeWZIpIgjZvlZXXuMNUq3FvbsDDVeyOa9xhulEBX8KCGjeoRLLQMjXuLFYp9%2BP0B3eH9ZsKUVoWUfDMhPusROkARSS7fMxF%2Bfdff3CkO%2F5exys%3D){:target="_blank"}
 
 Output is high if only an odd number of inputs are high, else output is low. For a 2-input XOR, it
 is only high while only one input is high.
@@ -194,7 +194,7 @@ XliSKSIJWr1VFl7k1mmoyL25Ader2A3XuHW6UQFfwoIaN6hETqF5atynWKXcj9Mf
 
 ### Compact Design
 
-[Open in Open-Konstruktor](https://openkonstruktor.natecousins.com/?level=10+KA180+2-BIT+ADDER+WITH+CARRY&design=eNrtmk0WgjAMhCXDxjN4BfeexftfRJ%2Fif9qURGiBgYebz6FpaMeU2h%2F7w%2F7c7U9dv%2FOcFI4Uik%2FYDaerRbFbTbUo3uQIB0C5UHxCZVCUt%2Fg1KMa0KN7kyHKe47zJCT2ObsYhx4lMIYVtC2%2FlnKSPGwWgXnF65cP1%2BHxvd6D3I0n1mFXdGx2%2BkabKjeUjV6hMnwG6KLz0lZeWsmFEFehvKM9tjpx5qTEHs7MMFRwp5YRFVrlVCmZDpWBUpJujK7dKVNK2TlFJyx6R0ipbNEMYlWF2Ab7smjM7%2FWHUYEBWW6u6C0Rl9Ag0UtJNW6VJsWAzjFRKFkWTS124Y45kg9ZBuv4FONKbPnZFmtcuOlfQNyPKKtK8lj0i3bBVTr7HnafpPe4sTfjd395GrngHvMn%2BGtmQQH%2B5xz0hja37pnCkSa1Sv%2BK0KOzf%2F%2FwUabWycExFyl9S37tKRkX6Wa78%2F84VHOkC2inHOw%3D%3D)
+[Open in Open-Konstruktor](https://openkonstruktor.natecousins.com/?level=10+KA180+2-BIT+ADDER+WITH+CARRY&design=eNrtmk0WgjAMhCXDxjN4BfeexftfRJ%2Fif9qURGiBgYebz6FpaMeU2h%2F7w%2F7c7U9dv%2FOcFI4Uik%2FYDaerRbFbTbUo3uQIB0C5UHxCZVCUt%2Fg1KMa0KN7kyHKe47zJCT2ObsYhx4lMIYVtC2%2FlnKSPGwWgXnF65cP1%2BHxvd6D3I0n1mFXdGx2%2BkabKjeUjV6hMnwG6KLz0lZeWsmFEFehvKM9tjpx5qTEHs7MMFRwp5YRFVrlVCmZDpWBUpJujK7dKVNK2TlFJyx6R0ipbNEMYlWF2Ab7smjM7%2FWHUYEBWW6u6C0Rl9Ag0UtJNW6VJsWAzjFRKFkWTS124Y45kg9ZBuv4FONKbPnZFmtcuOlfQNyPKKtK8lj0i3bBVTr7HnafpPe4sTfjd395GrngHvMn%2BGtmQQH%2B5xz0hja37pnCkSa1Sv%2BK0KOzf%2F%2FwUabWycExFyl9S37tKRkX6Wa78%2F84VHOkC2inHOw%3D%3D){:target="_blank"}
 
 Smaller design, but can produce spikes in certain situations. Not recommended unless going for
 low design score.
@@ -214,7 +214,7 @@ yl9S37tKRkX6Wa78/84VHOkC2inHOw==
 
 ### 4-Input XOR Gate
 
-[Open in Open-Konstruktor](https://openkonstruktor.natecousins.com/?level=10+KA180+2-BIT+ADDER+WITH+CARRY&design=eNrtmVsagiAQhYXxxTW0hd5bS%2FvfSIWSqMOIoB8CRyOi3%2BOFxtMI%2FbN%2FDG81vFTfxayFChWzBh9RatUj1I7k9675XWyFyoi1EahVWxCOm9ifQq3aYgCoaQf2s9sOjhwVG3IQ7ggDI6dj4igoctbrgcjphEgq3%2BUghBDC5oQmndP%2BxVAiYks6%2FXL7muv%2FcbX77a0omWWuj1CzR3LqJZ22WNQnUntmLPX3xgnU0xtBVMvn7L9e0CrplY7kc8IgqwQFBQVtm8Iq42hKvtpqT6bkq4g60Natkoo0w1%2FKPpKxPkIrNlL5AZzvjSAKIwVFVmlvAboZtYOo0k1Kos3GaUumKYYGMwSFVYpZpV2K6kwzEmxHiH1U87TRwCO5N9BXoBVYZYtz3Hsz4MvCaLPNcYs0dcwwaQZ8d%2BYdc76gl8%2BAX2yVfEmn5f7v0PaZNJhmvKIpf8%2BTv1ECRbYDmtWRPmzfx8k%3D)
+[Open in Open-Konstruktor](https://openkonstruktor.natecousins.com/?level=10+KA180+2-BIT+ADDER+WITH+CARRY&design=eNrtmVsagiAQhYXxxTW0hd5bS%2FvfSIWSqMOIoB8CRyOi3%2BOFxtMI%2FbN%2FDG81vFTfxayFChWzBh9RatUj1I7k9675XWyFyoi1EahVWxCOm9ifQq3aYgCoaQf2s9sOjhwVG3IQ7ggDI6dj4igoctbrgcjphEgq3%2BUghBDC5oQmndP%2BxVAiYks6%2FXL7muv%2FcbX77a0omWWuj1CzR3LqJZ22WNQnUntmLPX3xgnU0xtBVMvn7L9e0CrplY7kc8IgqwQFBQVtm8Iq42hKvtpqT6bkq4g60Natkoo0w1%2FKPpKxPkIrNlL5AZzvjSAKIwVFVmlvAboZtYOo0k1Kos3GaUumKYYGMwSFVYpZpV2K6kwzEmxHiH1U87TRwCO5N9BXoBVYZYtz3Hsz4MvCaLPNcYs0dcwwaQZ8d%2BYdc76gl8%2BAX2yVfEmn5f7v0PaZNJhmvKIpf8%2BTv1ECRbYDmtWRPmzfx8k%3D){:target="_blank"}
 
 A 4-input XOR can be achieved with three 2-input XOR gates.
 
@@ -233,7 +233,7 @@ QG9glTXOcq/NgU8Lo802yy3S1DHDpDnw1bl3zAmDqug5c9yHWCVf0mm5/zu0fCZV
 
 ## XNOR Gate
 
-[Open in Open-Konstruktor](https://openkonstruktor.natecousins.com/?level=10+KA180+2-BIT+ADDER+WITH+CARRY&design=eNrtmkESwiAMRaVh0zN4BfeexftfRKfiyGhIgRZh7CuDm%2BdvaRo%2FQeov%2Fjzf3Hx1%2FlTTEA4vdN7VCKfQioUutIqhZlyPBDiWUMmkHKGavTlCNXvzhqpkL88RIUKEPxUu5dyUPhYqImrfTh889NdnfN0d6PNIUv1%2BVV1EwxfSdLLpx3iPQ99RUWgU0mJqn5mnMC5d%2BR11cKSUE2ZZJRQKhR6bYpXGfFdPiWQFTVSGWZRIQrHKTmYo5sJB1pYVpFap3UUhLaYYKRSr7FY3ttNilT%2FWQqFYZTMqds2JVe5Nxa45sUro%2BFY59B63TdN73KsLcPa4R9oBZ4%2F7P6nYa7cmjtTUKvW%2BnTafHb7f%2BcnSakUj8ywUOsafYB0c6Q57gMcH)
+[Open in Open-Konstruktor](https://openkonstruktor.natecousins.com/?level=10+KA180+2-BIT+ADDER+WITH+CARRY&design=eNrtmkESwiAMRaVh0zN4BfeexftfRKfiyGhIgRZh7CuDm%2BdvaRo%2FQeov%2Fjzf3Hx1%2FlTTEA4vdN7VCKfQioUutIqhZlyPBDiWUMmkHKGavTlCNXvzhqpkL88RIUKEPxUu5dyUPhYqImrfTh889NdnfN0d6PNIUv1%2BVV1EwxfSdLLpx3iPQ99RUWgU0mJqn5mnMC5d%2BR11cKSUE2ZZJRQKhR6bYpXGfFdPiWQFTVSGWZRIQrHKTmYo5sJB1pYVpFap3UUhLaYYKRSr7FY3ttNilT%2FWQqFYZTMqds2JVe5Nxa45sUro%2BFY59B63TdN73KsLcPa4R9oBZ4%2F7P6nYa7cmjtTUKvW%2BnTafHb7f%2BcnSakUj8ywUOsafYB0c6Q57gMcH){:target="_blank"}
 
 Output is low if only an odd number of inputs are high, else output is high. For a 2-input XNOR, it
 is only high while all or none inputs are high.
@@ -251,7 +251,7 @@ cPa4R9oBZ4/7P6nYa7cmjtTUKvW+nTafHb7f+cnSakUj8ywUOsafYB0c6Q57gMcH
 
 ### 4-Input XNOR Gate
 
-[Open in Open-Konstruktor](https://openkonstruktor.natecousins.com/?level=10+KA180+2-BIT+ADDER+WITH+CARRY&design=eNrtmWESgiAQhWOXP56hK%2FS%2Fs3T%2Fi9QoNSjLghKjwJNxHPt6IbC%2BVtc%2B7H16melp7O1Ia1RIYsvukZQzCI8LjTUroX%2BuCv31i65nKDSu%2Bf0LfUoh5%2F8%2Bbc6zY5WOBjmECWFm5MhxRPs9Z0fkaJHUuq9CCCGEJwvndI7i20yZWdzL6YfT8h3yjvSjy6frY%2FOU3ThZHK9OE3O1zKd%2F3EW%2Fm0i18Van%2BlUlr1mjsdkAvS6t6UgxJ8yySlBQUNCxKazyBFqSr446kyX5KqIOtAOr5PHMkN2oWXzo0GnHRqo%2FgKsPaDqFkYJ2klXy5m1EB9S9blRvUlZt9pi2ZVpiaDBD0P6zyqCW0P1CCHWbkBLj9vetMFX0wVyBXsAq%2F1DjdjkF0xA17pIKeN0at0rL3wqeVAFHjXswWqfG%2FRerlPdyGruD8Y92BnXZPVYB9OK0uiOF2xtyqMfV)
+[Open in Open-Konstruktor](https://openkonstruktor.natecousins.com/?level=10+KA180+2-BIT+ADDER+WITH+CARRY&design=eNrtmWESgiAQhWOXP56hK%2FS%2Fs3T%2Fi9QoNSjLghKjwJNxHPt6IbC%2BVtc%2B7H16melp7O1Ia1RIYsvukZQzCI8LjTUroX%2BuCv31i65nKDSu%2Bf0LfUoh5%2F8%2Bbc6zY5WOBjmECWFm5MhxRPs9Z0fkaJHUuq9CCCGEJwvndI7i20yZWdzL6YfT8h3yjvSjy6frY%2FOU3ThZHK9OE3O1zKd%2F3EW%2Fm0i18Van%2BlUlr1mjsdkAvS6t6UgxJ8yySlBQUNCxKazyBFqSr446kyX5KqIOtAOr5PHMkN2oWXzo0GnHRqo%2FgKsPaDqFkYJ2klXy5m1EB9S9blRvUlZt9pi2ZVpiaDBD0P6zyqCW0P1CCHWbkBLj9vetMFX0wVyBXsAq%2F1DjdjkF0xA17pIKeN0at0rL3wqeVAFHjXswWqfG%2FRerlPdyGruD8Y92BnXZPVYB9OK0uiOF2xtyqMfV){:target="_blank"}
 
 A 4-input XNOR can be achieved with three 2-input XNOR gates.
 
